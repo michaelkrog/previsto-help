@@ -13,9 +13,6 @@
   * [Oprette medarbejdere](generelt/virksomhed/oprette-medarbejdere.md)
   * [Indstil arbejdstider](generelt/virksomhed/indstil-arbejdstider.md)
   * [Variabler](generelt/virksomhed/variabler.md)
-  * [Ofte stillede spørgsmål](generelt/virksomhed/ofte-stillede-sporgsmal/README.md)
-    * [Glemt kodeord](generelt/virksomhed/ofte-stillede-sporgsmal/glemt-kodeord.md)
-* [Persondataforordningen \(Gdpr\)](generelt/persondataforordningen-gdpr.md)
 * [Kunder](generelt/kunder/README.md)
   * [Oprettelse af kunde](generelt/kunder/oprettelse-af-kunde.md)
   * [Aftaler og tilbud](generelt/kunder/aftaler-og-tilbud.md)
@@ -24,6 +21,9 @@
   * [Tidslinjen](generelt/plan/tidslinjen.md)
   * [Udfør arbejde](generelt/plan/udfor-arbejde.md)
 * [Kundegrupper](generelt/kundegrupper.md)
+* [Ofte stillede spørgsmål](generelt/ofte-stillede-sporgsmal/README.md)
+  * [Glemt kodeord](generelt/ofte-stillede-sporgsmal/glemt-kodeord.md)
+  * [Persondataforordningen \(Gdpr\)](generelt/ofte-stillede-sporgsmal/persondataforordningen-gdpr.md)
 
 ## Integration til regnskab
 
