@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduktion](README.md)
+* [Kom godt i gang](kom-godt-i-gang.md)
 
 ## Generelt
 
