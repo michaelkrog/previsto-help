@@ -2,15 +2,14 @@
 
 * [Introduktion](README.md)
 
-## Virksomhed
+## Generelt
 
-* [Oprettelse](virksomhed/oprettelse.md)
+* [Virksomhed](virksomhed/oprettelse/README.md)
+  * [Oprettelse](virksomhed/oprettelse/oprettelse-3.md)
+* [Kunder](virksomhed/oprettelse-1/README.md)
+  * [Oprettelse](virksomhed/oprettelse-1/oprettelse.md)
+* [Aftaler og tilbud](virksomhed/oprettelse-2/README.md)
+  * [Oprettelse](virksomhed/oprettelse-2/oprettelse-3.md)
 
-## Kunder
-
-* [Oprettelse](kunder/oprettelse.md)
-
-## Aftaler og tilbud
-
-* [Oprettelse](aftaler/oprettelse.md)
+## Integration til regnskab
 
