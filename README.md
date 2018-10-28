@@ -10,7 +10,12 @@ Previstos ruteplanlægning udmærker sig ved iberegne alle kørselsafstande på 
 
 På disse sider beskrives Previstos funktioner og muligheder i praksis. Artiklerne fører dig fra oprettelse af din egen konto i Previsto helt til fakturering af udført arbejde.
 
+#### API til udvikler
 
+Er du mere interesseret i hvordan du kan integrere med Previsto kan du læse om vores [REST API til softwareudviklere her](http://tech.previsto.com/).
 
+#### Feedback <a id="feedback"></a>
+
+Feedback er meget velkomment! Har du en idé eller noget vi kan gøre bedre, så kontakt os via mail på [support@previsto.com](mailto:support@previsto.com)  
 
 
