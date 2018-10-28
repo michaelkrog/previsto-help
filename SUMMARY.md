@@ -9,6 +9,7 @@
 
 * [Virksomhed](virksomhed/oprettelse/README.md)
   * [Grundlæggende oplysninger](virksomhed/oprettelse/oprettelse-3.md)
+  * [Notifikationer](virksomhed/oprettelse/notifikationer.md)
 * [Kunder](virksomhed/oprettelse-1/README.md)
   * [Oprettelse](virksomhed/oprettelse-1/oprettelse.md)
 * [Aftaler og tilbud](virksomhed/oprettelse-2/README.md)

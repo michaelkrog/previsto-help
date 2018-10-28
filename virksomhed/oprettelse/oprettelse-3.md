@@ -61,6 +61,10 @@ Hvis du mener at uvedkommende har fået fat på denne nøgle bør du klikke på 
 Denne fane giver dig mulighed for at bestemme hvordan notifikationer skal sendes til dine kunder.
 
 Du kan angive om notifikationer skal leveres vi Email og/eller Sms. Du kan også angive om Previsto automatisk skal sende påmindelser ud til kunden før arbejdet bliver udført eller en notifikation når arbejdet er udført.
+
+Du kan læse mere om notifikationer på følgende side:
+
+{% page-ref page="notifikationer.md" %}
 {% endtab %}
 {% endtabs %}
 
