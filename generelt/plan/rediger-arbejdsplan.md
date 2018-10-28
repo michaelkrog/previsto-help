@@ -2,11 +2,11 @@
 description: Sådan kan du redigere den rute Previsto har lavet.
 ---
 
-# Redigér rute
+# Redigér arbejdsplan
 
-Selvom Previsto intelligent planlægger ruter, kan der med kort varsel opstå scenarier som Previsto ikke har kendskab til. Det kan være dårligt vejr, en kunde der ekstraordinært ikke skal have udført arbejde eller andet. I de tilfælde er der behov for at du manuelt kan lave rettelser til den planlagte rute.
+Selvom Previsto intelligent planlægger dine arbejdsplaner, kan der være scenarier som Previsto ikke har kendskab til. Det kan være dårligt vejr, en kunde der ekstraordinært ikke skal have udført arbejde eller andet. I de tilfælde er der behov for at du manuelt kan lave rettelser til arbejdsplanen.
 
-Se hvordan du redigerer dine ruter manuelt i følgende video. Detaljer fortsætter på denne side efter videoen.
+Se hvordan du redigerer dine arbejdsplaner manuelt i følgende video. Detaljer fortsætter på denne side efter videoen.
 
 {% embed url="https://youtu.be/KFd3qRSCkiI" %}
 

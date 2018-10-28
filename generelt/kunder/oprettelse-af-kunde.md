@@ -53,7 +53,7 @@ Indikerer overfor medarbejderen at kunden skal have besked fra gang til gang om 
 {% tab title="Bogføring" %}
 Denne fane giver mulighed for at justere hvordan kunden bogføres hvis du har integration til et regnskabssystem.
 
-{% page-ref page="../../integration-til-regnskab/automatisk-fakturering.md" %}
+{% page-ref page="../../integration-til-regnskab/automatisk-fakturering/" %}
 
 #### Bogføring af arbejde <a id="bogf&#xF8;ring-af-arbejde"></a>
 

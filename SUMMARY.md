@@ -17,7 +17,7 @@
   * [Oprettelse af kunde](generelt/kunder/oprettelse-af-kunde.md)
   * [Aftaler og tilbud](generelt/kunder/aftaler-og-tilbud.md)
 * [Plan](generelt/plan/README.md)
-  * [Redigér rute](generelt/plan/rediger-rute.md)
+  * [Redigér arbejdsplan](generelt/plan/rediger-arbejdsplan.md)
   * [Tidslinjen](generelt/plan/tidslinjen.md)
   * [Udfør arbejde](generelt/plan/udfor-arbejde.md)
 * [Kundegrupper](generelt/kundegrupper.md)
@@ -26,5 +26,7 @@
 
 * [Grundlæggende om fakturering](integration-til-regnskab/grundlaeggende-om-fakturering.md)
 * [Manuel fakturering](integration-til-regnskab/manuel-fakturering.md)
-* [Automatisk fakturering](integration-til-regnskab/automatisk-fakturering.md)
+* [Automatisk fakturering](integration-til-regnskab/automatisk-fakturering/README.md)
+  * [Integration med Billy](integration-til-regnskab/automatisk-fakturering/integration-med-billy.md)
+  * [Integration med Dinero](integration-til-regnskab/automatisk-fakturering/integration-med-dinero.md)
 

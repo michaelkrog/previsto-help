@@ -10,7 +10,7 @@ Der er 2 forskellige arbejdsgange du kan vælge når du vil fakturere det arbejd
 
 {% page-ref page="manuel-fakturering.md" %}
 
-{% page-ref page="automatisk-fakturering.md" %}
+{% page-ref page="automatisk-fakturering/" %}
 
 
 

@@ -20,7 +20,7 @@ Under denne fane kan du angive hvordan Previsto skal fungere for lige netop din 
 
 Du kan angive om din virksomhed er knyttet til et regnskabssystem og i så fald hvilket. Ved at angive det kan du få Previsto til automatisk at fakturere de arbejde din virksomhed udfører. Læs mere om detaljerne i det på følgende side:
 
-{% page-ref page="../../integration-til-regnskab/automatisk-fakturering.md" %}
+{% page-ref page="../../integration-til-regnskab/automatisk-fakturering/" %}
 
 #### Låste dage <a id="l&#xE5;ste-dage"></a>
 

@@ -39,20 +39,7 @@ Previsto kan ud fra de informationer der er tilgængelige foretage en ruteplanl�
 
 Previsto fokuserer på planlægning og overlader regnskab til systemer der fokuserer på regnskab. Det giver overordnet den bedste løsning når de 2 verdener kombineres.
 
-Previsto integrerer med følgende programmer:
-
-* Dinero \(Danmark\)
-* Billy \(Danmark\)
-
-Følgende vil der senere komme integration til:
-
-* Zipbooks
-* Hiveage
-* Wave Accounting
-* Akaunting
-* Debitoor \(Worldwide\)
-* Fiken \(Norge\)
-* Economic \(Danmark\)
+{% page-ref page="../integration-til-regnskab/automatisk-fakturering/" %}
 
 ### Hvad kan jeg bruge Previsto til
 
