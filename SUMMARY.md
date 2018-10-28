@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hjælp til Previsto](README.md)
+* [Introduktion](README.md)
 
 ## Virksomhed
 
