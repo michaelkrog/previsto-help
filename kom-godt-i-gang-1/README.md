@@ -1,2 +1,0 @@
-# Kom godt i gang
-

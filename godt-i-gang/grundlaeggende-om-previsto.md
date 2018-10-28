@@ -1,0 +1,58 @@
+---
+description: >-
+  Previsto er et brugervenligt system til planlægning af arbejdsopgaver i
+  servicebranchen. Det udmærker sig i forhold til andre systemer ved at kunne
+  beregne kortest muligt kørselsruter.
+---
+
+# Grundlæggende om Previsto
+
+### Previsto's platform
+
+Previsto gør det muligt at planlægge arbejde for mange kunder på tværs af mange medarbejdere. Previsto håndterer de aftaler der indgået med kunderne, håndterer intervaller for tilbagevendende opgaver og planlægger arbejdsopgaverne på tværs af medarbejderne.
+
+Previsto kan planlægge mange af opgaverne helt automatisk alene ude fra følgende informationer:
+
+1. Medarbejdernes lokation/adresse og arbejdstider
+2. Lokation for udførelse af arbejde \(fx. kundens adresse\)
+3. Kundens aftale og evt. interval.
+
+I de tilfælde hvor den automatiske planlægning ikke er som ønsket, er det let via Previsto's brugerflade at tilpasse det manuelt.
+
+### Previsto's planlægning af kørsel
+
+Previsto har en dyb integration i geografiske data. Det gør det muligt at kunne beregne kørselsafstande og tider mellem alle kunders og medarbejderes lokationer. Sammenholdt med Previsto's intelligente beregningsmotor, baseret på [metaheuristiske kalkulationer](https://en.wikipedia.org/wiki/Metaheuristic), er det muligt at planlægge arbejdsopgaver, på tværs af mange medarbejdere, med mindst mulig kørsel.
+
+Udfordringen med beregningen af kortest kørselsafstande bliver typisk betegnet som [Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)\(forkortet: TSP\). Der findes ingen matematisk formel der kan beregne den bedste løsning og det er samtidig også meget svært for den menneskelige hjerne at beregne ruterne optimalt - også taget i betragtning de mange krav der ofte stilles til dem som f.eks.:
+
+* En medarbejder er blevet syg
+* En kunde skal varetages af en eller flere bestemte medarbejdere
+* En kunde skal besøges i et bestemt tidsrum på dagen
+* En kunde skal tages med et bestemt interval \(f.eks. hver 4 uge\)
+* m.m.
+
+### Previsto's integration til regnskab
+
+Previsto fokuserer på planlægning og overlader regnskab til systemer der fokuserer på regnskab. Det giver overordnet den bedste løsning når de 2 verdener kombineres.
+
+Previsto integrerer med følgende programmer:
+
+* Dinero \(Danmark\)
+* Billy \(Danmark\)
+
+Følgende vil der senere komme integration til:
+
+* Zipbooks
+* Hiveage
+* Wave Accounting
+* Akaunting
+* Debitoor \(Worldwide\)
+* Fiken \(Norge\)
+* Economic \(Danmark\)
+
+### Hvad kan jeg bruge Previsto til
+
+Vi har kunder i mange forskellige brancher som f.eks. vinduespudsning, ejendomsservice, hjemmehjælp, gartnere, kørende sælgere m.m. Men Previsto kan bruges i mange flere brancher.
+
+Vi lytter også løbende til kundernes input for at forbedre systemet til bruge i flere brancher. 
+

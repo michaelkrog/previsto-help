@@ -1,2 +1,0 @@
-# Grundlæggende om Previsto
-
