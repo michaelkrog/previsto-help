@@ -16,3 +16,7 @@
 
 ## Integration til regnskab
 
+* [Grundlæggende om fakturering](aftaler/grundlaeggende-om-fakturering.md)
+* [Manuel fakturering](aftaler/manuel-fakturering.md)
+* [Automatisk fakturering](aftaler/automatisk-fakturering.md)
+
