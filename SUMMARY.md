@@ -4,6 +4,9 @@
 * [Godt i gang](godt-i-gang/README.md)
   * [Kom godt i gang med Previsto](godt-i-gang/kom-godt-i-gang-med-previsto.md)
   * [Grundlæggende om Previsto](godt-i-gang/grundlaeggende-om-previsto.md)
+* [Ofte stillede spørgsmål](ofte-stillede-sporgsmal/README.md)
+  * [Glemt kodeord](ofte-stillede-sporgsmal/glemt-kodeord.md)
+  * [Persondataforordningen \(Gdpr\)](ofte-stillede-sporgsmal/persondataforordningen-gdpr.md)
 
 ## Generelt
 
@@ -21,9 +24,6 @@
   * [Tidslinjen](generelt/plan/tidslinjen.md)
   * [Udfør arbejde](generelt/plan/udfor-arbejde.md)
 * [Kundegrupper](generelt/kundegrupper.md)
-* [Ofte stillede spørgsmål](generelt/ofte-stillede-sporgsmal/README.md)
-  * [Glemt kodeord](generelt/ofte-stillede-sporgsmal/glemt-kodeord.md)
-  * [Persondataforordningen \(Gdpr\)](generelt/ofte-stillede-sporgsmal/persondataforordningen-gdpr.md)
 
 ## Integration til regnskab
 
