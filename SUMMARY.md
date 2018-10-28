@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Introduktion](README.md)
-* [Kom godt i gang](kom-godt-i-gang.md)
+* [Kom godt i gang](kom-godt-i-gang-1/README.md)
+  * [Kom godt i gang med Previsto](kom-godt-i-gang-1/kom-godt-i-gang.md)
+  * [Grundlæggende om Previsto](kom-godt-i-gang-1/grundlaeggende-om-previsto.md)
 
 ## Generelt
 
