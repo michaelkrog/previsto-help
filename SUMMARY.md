@@ -7,17 +7,24 @@
 
 ## Generelt
 
-* [Virksomhed](virksomhed/oprettelse/README.md)
-  * [Grundlæggende oplysninger](virksomhed/oprettelse/oprettelse-3.md)
-  * [Notifikationer](virksomhed/oprettelse/notifikationer.md)
-* [Kunder](virksomhed/oprettelse-1/README.md)
-  * [Oprettelse](virksomhed/oprettelse-1/oprettelse.md)
-* [Aftaler og tilbud](virksomhed/oprettelse-2/README.md)
-  * [Oprettelse](virksomhed/oprettelse-2/oprettelse-3.md)
+* [Virksomhed](generelt/virksomhed/README.md)
+  * [Grundlæggende oplysninger](generelt/virksomhed/grundlaeggende-oplysninger.md)
+  * [Notifikationer](generelt/virksomhed/notifikationer.md)
+  * [Oprette medarbejdere](generelt/virksomhed/oprette-medarbejdere.md)
+  * [Indstil arbejdstider](generelt/virksomhed/indstil-arbejdstider.md)
+  * [Variabler](generelt/virksomhed/variabler.md)
+* [Kunder](generelt/kunder/README.md)
+  * [Oprettelse af kunde](generelt/kunder/oprettelse-af-kunde.md)
+  * [Aftaler og tilbud](generelt/kunder/aftaler-og-tilbud.md)
+* [Plan](generelt/plan/README.md)
+  * [Redigér rute](generelt/plan/rediger-rute.md)
+  * [Tidslinjen](generelt/plan/tidslinjen.md)
+  * [Udfør arbejde](generelt/plan/udfor-arbejde.md)
+* [Kundegrupper](generelt/kundegrupper.md)
 
 ## Integration til regnskab
 
-* [Grundlæggende om fakturering](aftaler/grundlaeggende-om-fakturering.md)
-* [Manuel fakturering](aftaler/manuel-fakturering.md)
-* [Automatisk fakturering](aftaler/automatisk-fakturering.md)
+* [Grundlæggende om fakturering](integration-til-regnskab/grundlaeggende-om-fakturering.md)
+* [Manuel fakturering](integration-til-regnskab/manuel-fakturering.md)
+* [Automatisk fakturering](integration-til-regnskab/automatisk-fakturering.md)
 
