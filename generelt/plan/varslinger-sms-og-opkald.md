@@ -6,7 +6,7 @@ description: Du har flere måder at komme i kontakt med kunden når du er på fa
 
 Når du i arbejdsplanen åbner menuen for en kunde, bliver du præsenteret med de funktioner der er relevante for dig når du er på farten. Nogle af dem giver dig mulighed for at komme i kontakt med kunden, såfremt der er registreret email-adresse eller telefonnummer på kunden.
 
-![Funktioner for en kunde p&#xE5; planen](../../.gitbook/assets/skaermbillede-2018-10-30-kl.-09.48.00%20%281%29.png)
+![Funktioner til kontakt med kunden direkte fra planen](../../.gitbook/assets/skaermbillede-2018-10-30-kl.-09.48.00%20%282%29.png)
 
 ### Send varsling
 
