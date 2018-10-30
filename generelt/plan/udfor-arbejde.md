@@ -1,12 +1,20 @@
 ---
 description: >-
-  Angiv når en opgave er udført, så kan arbejdet faktureres og du kan se hvor
-  langt du er kommet.
+  Påbegynd arbejde og angiv når det er udført - så kan arbejdet faktureres og du
+  kan se hvor langt du er kommet.
 ---
 
-# Udfør arbejde
+# Påbegynd og udfør arbejde
 
-Når arbejde er udført skal det markeres som udført. Det giver dig et visuelt overblik over hvilket arbejde du har udført hvornår, ligesom du kan få udskrevet en arbejdsseddel over det udført arbejde. Det giver samtidig Previsto de informationer der skal bruges for at planlægge arbejdet fremover.
+Når du er i gang med din arbejdsdag er det godt at holde styr på hvor langt du er kommet efterhånden som dagen skrider frem. Det giver Previsto dig mulighed for direkte i planen.
+
+![Du kan p&#xE5;begynde og gennemf&#xF8;re arbejds direkte i planen](../../.gitbook/assets/skaermbillede-2018-10-30-kl.-09.48.00%20%283%29.png)
+
+### Påbegynd arbejde
+
+**Dette trin er valgfrit.** Når du vælger `Påbegynd` bliver opgaven markeret til at være igang og starttidspunkt bliver sat til nuværende tidspunkt. Herefter vil du løbende kunne se hvor mange minutter du har været i gang med opgaven og den forløbne tid vil blive taget i betragtning når du efterfølgende gennemfører opgaven.
+
+Bemærk at det ikke er nødvendigt at vælge Påbegynd for at markere arbejde som gennemført. Men når du gør det, giver det dig et mere præcist billede af hvor lang tid du har brugt på et givent stykke arbejde.
 
 ### Markér arbejde udført <a id="mark&#xE9;r-arbejde-udf&#xF8;rt"></a>
 
