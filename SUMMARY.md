@@ -20,9 +20,10 @@
   * [Oprettelse af kunde](generelt/kunder/oprettelse-af-kunde.md)
   * [Aftaler og tilbud](generelt/kunder/aftaler-og-tilbud.md)
 * [Plan](generelt/plan/README.md)
-  * [Redigér arbejdsplan](generelt/plan/rediger-arbejdsplan.md)
   * [Tidslinjen](generelt/plan/tidslinjen.md)
+  * [Redigér arbejdsplan](generelt/plan/rediger-arbejdsplan.md)
   * [Udfør arbejde](generelt/plan/udfor-arbejde.md)
+* [Varslinger, SMS og opkald](generelt/varslinger-sms-og-opkald.md)
 * [Kundegrupper](generelt/kundegrupper.md)
 
 ## Integration til regnskab
