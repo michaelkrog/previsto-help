@@ -24,7 +24,6 @@
   * [Redigér arbejdsplan](generelt/plan/rediger-arbejdsplan.md)
   * [Påbegynd og udfør arbejde](generelt/plan/udfor-arbejde.md)
   * [Varslinger, SMS og opkald](generelt/plan/varslinger-sms-og-opkald.md)
-* [Start](generelt/start.md)
 * [Kundegrupper](generelt/kundegrupper.md)
 
 ## Integration til regnskab
