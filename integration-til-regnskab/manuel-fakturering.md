@@ -4,7 +4,7 @@ description: Sådan integrerer du manuelt til eksternt regnskabssystem
 
 # Manuel fakturering
 
-Denne arbejdsgang understøtter de fleste eksisterende regnsskabssystemer, men kræver – i kontrast til den automatiske arbejdsgang – mere manuelt arbejde. Opsætningen er enkel; Du skal blot gøre følgende for hver kunde du opretter i Previsto:
+Denne arbejdsgang fungerer med de fleste eksisterende regnsskabssystemer, men kræver – i kontrast til den automatiske arbejdsgang – mere manuelt arbejde. Opsætningen er enkel; Du skal blot gøre følgende for hver kunde du opretter i Previsto:
 
 1. Find kundens kundenummer \(eller et andet unikt nummer for kunden\) i dit regnskabssystem.
 2. Opret kunden i Previsto. Ved oprettelse angiver du kundenummeret i feltet `kundenummer`.
