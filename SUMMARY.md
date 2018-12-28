@@ -34,3 +34,12 @@
   * [Integration med Billy](integration-til-regnskab/automatisk-fakturering/integration-med-billy.md)
   * [Integration med Dinero](integration-til-regnskab/automatisk-fakturering/integration-med-dinero.md)
 
+## Api
+
+* [Introduction to Api](api/introduction-to-api.md)
+* [Account](api/account.md)
+* [Organization](api/organization.md)
+* [Contact](api/contact.md)
+* [Agreement](api/agreement.md)
+* [Assignment](api/assignment.md)
+
