@@ -18,12 +18,14 @@ If the organization is connected to a financial system then Previsto will do boo
   "accountId" : "acct-dfEfdv3342FD",
   "action" : "None",
   "remoteOrderId" : null,
-  "timestamp" : "2017-05-31T08:05",
   "location" : [ 10.5286863, 56.8039035 ],
   "status" : "None",
-  "planningDate" : "2017-05-29",
-  "planningAccountIds" : [],
-  "planningDateType" : "Optimal",
+  "plan": {
+    "executionTime" : "2017-05-31T08:05",
+    "indicativeDate" : "2017-05-29",
+    "accountIds" : [],
+    "indicativeDateType" : "Optimal",
+  },
   "tasks" : [ {
     "agreementId" : "agrmt-DOKwO3VLJ6Sy3YxnlWop",
     "description" : "Pudsning2",
@@ -43,13 +45,23 @@ If the organization is connected to a financial system then Previsto will do boo
 | accountId | string | Yes | Id of the account that reflects the worker that is scheduled to execute the assignment. |
 | action | string | No | Action taken on the assignment. `None`, `Skipped`or `Completed`. |
 | remoteOrderId | string | No | Id of the order created in the financial system. |
-| timestamp | date | Yes | The planned time for handling this assignment. |
 | location | number\[\] | Yes | Array of 2 numbers holding longitude and latitude in specified order according to geojson syntax. \(Fx. \[11.543540954589844, 56.703469017862034\]\) |
 | status | string | No | Financial status of this assignment. `None`, `AppendedToOrder`, `Invoiced` or `Fulfilled`. |
-| planningDate | date | No | Date for guiding planning of timestamp. |
-| planningDateType | string | No | `Fixed` for planning timestamp exact date of `planningDate` or `Optimal` for flexible planning that allows optimizing routes by planning timestamp some day within the same week as planningDate. |
-| planningAccountIds | string\[\] | No | Ids of accounts reflecting the workers that should handle this assignment. Empty list allows all accounts. |
+| plan | assignment\_plan | No | Planning details for the assignment.  |
 | tasks | task\[\] | No | Array of task elements in this assignments. |
+| timestamp | date | Yes | **Deprecated.** _Use plan.executionTime instead._ Will be removed at 2019-03-01. |
+| planningDate | date | No | **Deprecated.** _Use plan.indicativeDate instead._ Will be removed at 2019-03-01. |
+| planningDateType | string | No | **Deprecated.** _Use plan.indicativeDateType instead._ Will be removed at 2019-03-01. |
+| planningAccountIds | string\[\] | No | **Deprecated.** _Use plan.accountIds instead._ Will be removed at 2019-03-01. |
+
+### The assignment\_plan object
+
+| Field | Type | Required | Description |
+| :--- | :--- | :--- | :--- |
+| executionTime | date | Yes | The planned time for executing this assignment. |
+| indicativeDate | date | No | Date for guiding planning of executionTime. |
+| indicativeDateType | string | No | `Fixed` for planning executionTime exact date of `indicativeDate` or `Optimal` for flexible planning that allows optimizing routes by planning executionTime some day within the same week as indicativeDate. |
+| accountIds | string\[\] | No | Ids of accounts reflecting the workers that should handle this assignment. Empty list allows all accounts. |
 
 ### The task object <a id="the-task-object"></a>
 
@@ -90,13 +102,15 @@ curl -X POST https://api.previsto.io/assignments \
   "payingContactId" : "cont-242342DgHH2lkjkj23",
   "accountId" : "acct-dfEfdv3342FD",
   "action" : "None",
+  "plan": {
+    "executionTime" : "2017-05-31T08:05",
+    "indicativeDate" : "2017-05-29",
+    "accountIds" : [],
+    "indicativeDateType" : "Optimal",
+  },
   "remoteOrderId" : null,
-  "timestamp" : "2017-05-31T08:05",
   "location" : [ 10.5286863, 56.8039035 ],
   "status" : "None",
-  "planningDate" : "2017-05-29",
-  "planningAccountIds" : [],
-  "planningDateType" : "Optimal",
   "tasks" : [ ]
 }
 ```
@@ -130,24 +144,23 @@ curl https://api.previsto.io/assignments/asgmt-klJ23j4L23j43 \
 
 ```text
 {
-    "id": "asgmt-klJ23j4L23j43",
-    "type": "Sale",
-    "number": "1344",
-    "contactId": null,
-    "contactName": null,
-    "contactAddress": null,
-    "contactCountryCode": null,
-    "notes": null,
-    "date": "2015-01-01",
-    "dueDate": "2015-01-09",
-    "creditAssignmentId": null,
-    "state": "draft",
-    "currency": "DKK",
-    "balance": 0,
-    "paid": false,
-    "assignmentHolderId": null,
-    "paymentTermsDays": 14,
-    "lines": [ ]
+  "id" : "asgmt-klJ23j4L23j43",
+  "createdDate" : "2017-05-21T20:22:28.110Z",
+  "meta" : { },
+  "contactId" : "cont-242342DgHH2lkjkj23",
+  "payingContactId" : "cont-242342DgHH2lkjkj23",
+  "accountId" : "acct-dfEfdv3342FD",
+  "action" : "None",
+  "plan": {
+    "executionTime" : "2017-05-31T08:05",
+    "indicativeDate" : "2017-05-29",
+    "accountIds" : [],
+    "indicativeDateType" : "Optimal",
+  },
+  "remoteOrderId" : null,
+  "location" : [ 10.5286863, 56.8039035 ],
+  "status" : "None",
+  "tasks" : [ ]
 }
 ```
 
@@ -190,13 +203,15 @@ curl https://api.previsto.io/assignments/_123123123 \
   "payingContactId" : "cont-242342DgHH2lkjkj23",
   "accountId" : "acct-dfEfdv3342FD",
   "action" : "None",
+  "plan": {
+    "executionTime" : "2017-05-31T08:05",
+    "indicativeDate" : "2017-05-29",
+    "accountIds" : [],
+    "indicativeDateType" : "Optimal",
+  },
   "remoteOrderId" : null,
-  "timestamp" : "2017-05-31T08:05",
   "location" : [ 10.5286863, 56.8039035 ],
   "status" : "None",
-  "planningDate" : "2017-05-29",
-  "planningAccountIds" : [],
-  "planningDateType" : "Optimal",
   "tasks" : [ {
     "agreementId" : "agrmt-DOKwO3VLJ6Sy3YxnlWop",
     "description" : "Pudsning2",
