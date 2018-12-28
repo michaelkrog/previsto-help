@@ -10,7 +10,7 @@ The Previsto API is organized around [REST](http://en.wikipedia.org/wiki/Represe
 
 #### Feedback <a id="feedback"></a>
 
-We would love your feedback at any time. Contact us through [Facebook](https://www.facebook.com/PrevistoApp) or [Google+](https://plus.google.com/b/114354403646048748307/).
+We would love your feedback at any time. Contact us at info@previsto.com.
 
 ### Authentication <a id="authentication"></a>
 
