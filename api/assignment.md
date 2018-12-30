@@ -67,11 +67,13 @@ If the organization is connected to a financial system then Previsto will do boo
 
 | Field | Type | Required | Description |
 | :--- | :--- | :--- | :--- |
-| agreementId | string | No | Id of the agreement behind this task. |
+| reference | string | No | Reference for this task, fx the id of the agreement that is the base of this task. |
 | description | string | No | Description of the work. |
-| amount | number | No | The amount to charge in 1⁄100 of the monetary unit \(fx. cents or øre\) without VAT. |
+| unitPrice | number | No | The amount to charge in 1⁄100 of the monetary unit \(fx. cents or øre\) without VAT. |
 | duration | number | No | The duration in minutes of the work. Minimum 3 minutes. |
 | workType | string | No | The type of work. Currently only 'WindowCleaning'. |
+| amount | number | No | **Deprecated**. _Use unitPrice instead._ Will be removed at 20190301. |
+| agreementId | string | No | **Deprecated**. _Use reference instead._ Will be removed at 20190301. |
 
 ### Create an assignment <a id="create-an-assignment"></a>
 
