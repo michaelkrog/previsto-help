@@ -1,6 +1,6 @@
 # Organization
 
-This is an object representing an organization in Skveege. You can retrieve it to see properties on the organization like its current e-mail address, physical address etc.
+This is an object representing an organization in Previsto. You can retrieve it to see properties on the organization like its current e-mail address, physical address etc.
 
 You are only allowed to access the organization your [account](http://tech.previsto.com/#account) refers to.
 
