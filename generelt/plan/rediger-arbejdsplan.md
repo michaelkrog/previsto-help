@@ -10,19 +10,19 @@ Se hvordan du redigerer dine arbejdsplaner manuelt i følgende video. Detaljer f
 
 {% embed url="https://youtu.be/KFd3qRSCkiI" %}
 
-### Udskyd
+### Udskyd opgave
 
-Du kan udskyde arbejde en periode efter behov – enten for den enkelte kunde eller for alle kunder på ruten du endnu ikke har behandlet.
+Du kan udskyde opgaver en periode efter behov – enten for den enkelte opgave eller for alle opgaver på ruten du endnu ikke har behandlet.
 
-#### Udskyd en enkelt kunde
+#### Udskyd en enkelt opgave
 
 ![](https://previsto.com/images/support/planning/plan_defer.png)
 
-Klik på kunde på kortet og vælg derefter udskyd. En dialog vil åbne og give dig mulighed for at angive hvor meget aftalen skal udskydes.
+Klik på opgaven på kortet og vælg derefter udskyd. En dialog vil åbne og give dig mulighed for at angive hvor meget opgaven skal udskydes.
 
-#### Udskyd hele arbejdsplanen for en medarbejder
+#### Udskyd alle opgaver på ruten
 
 ![](../../.gitbook/assets/skaermbillede-2018-10-28-kl.-14.22.20.png)
 
-I højre side over listen af kunder på arbejdsplanen kan du vælge udskyd for alle de kunder der endnu ikke er blevet behandlet.
+I højre side over listen af opgaver på arbejdsplanen kan du vælge udskyd for alle de opgaver der endnu ikke er blevet behandlet.
 
