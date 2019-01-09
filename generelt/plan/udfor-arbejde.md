@@ -24,9 +24,9 @@ Du kan vælge at markere en enkelt opgave som gennemført eller hele ruten. Ofte
 
 ![Mark&#xE9;r den enkelte aftale som gennemf&#xF8;rt](https://previsto.com/images/support/work/work-complete.png)
 
-Ved at klikke på den enkelte kunde på kortet kan du markere arbejdet som udført og det vil straks efter fremgå af kortet.
+Ved at klikke på den enkelte opgave på kortet kan du markere opgaven som udført og det vil straks efter fremgå af kortet.
 
-#### Hele arbejdsplanen
+#### Alle opgaver på arbejdsplanen
 
 ![](../../.gitbook/assets/skaermbillede-2018-10-28-kl.-14.29.17.png)
 
