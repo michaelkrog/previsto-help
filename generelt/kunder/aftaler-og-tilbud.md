@@ -4,7 +4,7 @@ description: Dine aftaler med kunderne er grundlag for dit arbejde.
 
 # Aftaler og tilbud
 
-Efter kunden er oprettet skal der oprettes aftaler på kunden. Du kan have et vilkårligt antal aftaler på hver kunde efter behov. Du kan **oprette en aftale**fra oversigten over en kunde ved at trykke på ‘+’ i bunden. Hvis du vil **redigere en eksisterende aftale** klikker du blot på aftalen i listen.
+Efter kunden er oprettet skal der oprettes aftaler på kunden. Du kan have et vilkårligt antal aftaler på hver kunde efter behov. Du kan **oprette en aftale** fra oversigten over en kunde ved at trykke på ‘+’ i bunden. Hvis du vil **redigere en eksisterende aftale** klikker du blot på aftalen i listen.
 
 Se hvordan du opretter en aftale i følgende video. Detaljer om oprettelse af aftaler fortsætter på denne side efter videoen.
 
@@ -28,17 +28,17 @@ Information om hvor meget det koster kunden at få udført arbejdet. Beløbet vi
 
 **Aftaletype**
 
-Som standard er aftaletypen `Almindelig` hvilket betyder at opgaven kan planlægges for sig selv. Vælger du derimod `Supplerende` vil opgaven kun planlægges hvis du i forvejen har arbejde for kunden i forbindelse med en `Almindelig` aftale. Dette er ofte anvendt af vinduespudsere til f.eks. indendørs vinduespolering som man kun ønsker at udføre når man også har andet arbejde på adressen.
+Som standard er aftaletypen `Almindelig` hvilket betyder at de opgaver der planlægges for aftalen kan planlægges for sig selv eller sammen med andre opgaver hos kunden. Vælger du derimod `Supplerende` vil de planlagte opgaver kun kunne planlægges hvis du i forvejen har arbejde hos kunden i forbindelse med en `Almindelig` aftale. Dette er ofte anvendt af vinduespudsere til f.eks. indendørs vinduespolering som man kun ønsker at udføre når man også har andet arbejde på adressen.
 
 #### Meddelelse til kunden - forud for arbejdet og efter udført arbejde
 
-Hvis angivet, vil teksten blive inkluderet henholdsvis i påmindelser/varslinger der sendes til kunden før arbejdet udføres og i notifikationer efter arbejdet er blevet udført.
+Hvis angivet, vil teksten blive inkluderet henholdsvis i påmindelser/varslinger der sendes til kunden før arbejdet udføres og i notifikationer efter opgaven er blevet udført.
 
 {% page-ref page="../virksomhed/notifikationer.md" %}
 
 **Note til medarbejder**
 
-Dette felt kan indeholde uddybende beskrivelser vedr. arbejdet som kunden ikke skal se. Tekst skrevet i dette felt vil være synlig for medarbejderen, men vil ikke komme med på fakturaen.
+Dette felt kan indeholde uddybende beskrivelser vedr. opgaven som kunden ikke skal se. Tekst skrevet i dette felt vil være synlig for medarbejderen, men vil ikke komme med på fakturaen.
 {% endtab %}
 
 {% tab title="Planlægning" %}
