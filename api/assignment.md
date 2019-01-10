@@ -86,14 +86,8 @@ Creates a new assignment. Takes the assignment object in the body.
 
 {% api-method-spec %}
 {% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="object" required=false %}
-Assignment object
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-
 {% api-method-body-parameters %}
-{% api-method-parameter name="." type="object" required=true %}
+{% api-method-parameter name="" type="object" required=true %}
 Assignment object.
 {% endapi-method-parameter %}
 {% endapi-method-body-parameters %}
