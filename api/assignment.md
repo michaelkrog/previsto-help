@@ -143,7 +143,7 @@ Retrieves a specific assignment by id.
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" required=false %}
+{% api-method-parameter name="id" type="string" required=true %}
 The id of the assignment to retrieve.
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
@@ -194,7 +194,7 @@ Updates a specific assignment. Any parameters not provided will be left unchange
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" required=false %}
+{% api-method-parameter name="id" type="string" required=true %}
 The id of the assignment to update.
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
@@ -244,52 +244,67 @@ Assignment object.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-### Delete an assignment <a id="delete-an-assignment"></a>
+{% api-method method="delete" host="https://api.previsto.io/assignments" path="/:id" %}
+{% api-method-summary %}
+Delete an Assignment
+{% endapi-method-summary %}
 
-> Definition
+{% api-method-description %}
+Deletes a specific assignment specified by id.
+{% endapi-method-description %}
 
-```text
-DELETE https://api.previsto.io/assignments/{assignment_ID}
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="id" type="string" required=true %}
+Id of assignment to delete.
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
 ```
 
-> Example Request
-
-```text
-curl https://api.previsto.io/assignments/asgmt-klJ23j4L23j43 \
-   -u sk_12345: \
-   -X DELETE
 ```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
 
-Permanently deletes an assignment. It cannot be undone.
+{% api-method method="get" host="https://api.previsto.io/assignments" path="/" %}
+{% api-method-summary %}
+List all assignments
+{% endapi-method-summary %}
 
-#### Arguments <a id="arguments"></a>
+{% api-method-description %}
+Retrieves an array of assignment objects.
+{% endapi-method-description %}
 
-| Field | Type | Required | Description |
-| :--- | :--- | :--- | :--- |
-| id | string | Yes | The identifier of the assignment to be delete. |
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="page" type="number" required=false %}
+A zero-based cursor for use in pagination.Page is a number that defines your place in the list. 
+{% endapi-method-parameter %}
 
-#### Returns <a id="returns"></a>
+{% api-method-parameter name="size" type="number" required=false %}
+A limit on the number of objects to return. Size can range between 1 and 100. Default is 20.
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
 
-Returns an empty response upon success. If the assignment ID does not exist, this call returns an error.
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
 
-### List all assignments <a id="list-all-assignments"></a>
+{% endapi-method-response-example-description %}
 
-> Definition
-
-```text
-GET https://api.previsto.io/assignments
 ```
-
-> Example Request
-
-```text
-curl https://api.previsto.io/assignments \
-   -u sk_12345:
-```
-
-> Example Response
-
-```text
 [
     {
         "id" : "asgmt-klJ23j4L23j43",
@@ -320,19 +335,10 @@ curl https://api.previsto.io/assignments \
 
 ]
 ```
-
-Returns a list of your assignments.
-
-#### Arguments <a id="arguments"></a>
-
-| Field | Optional | Explained |
-| :--- | :--- | :--- |
-| size | Yes | A limit on the number of objects to be returned. Size can range between 1 and 100 items. Default size is 20. |
-| page | Yes | A zero-based cursor for use in pagination. Page is a number that defines your place in the list. For instance, if you make a list request and receive 100 objects, your subsequent call can set page=1 in assignment to fetch the next page of the list. |
-
-#### Returns <a id="returns"></a>
-
-An array of up to limit assignments, starting after offset. Each entry in the array is a separate assignment object. If no more assignments are available, the resulting array will be empty. This request should never return an error.
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
 
 ###  <a id="retrieve-summaries"></a>
 
