@@ -49,10 +49,10 @@ If the organization is connected to a financial system then Previsto will do boo
 | status | string | No | Financial status of this assignment. `None`, `AppendedToOrder`, `Invoiced` or `Fulfilled`. |
 | plan | assignment\_plan | No | Planning details for the assignment.  |
 | tasks | task\[\] | No | Array of task elements in this assignments. |
-| timestamp | date | Yes | **Deprecated.** _Use plan.executionTime instead._ Will be removed at 2019-03-01. |
-| planningDate | date | No | **Deprecated.** _Use plan.indicativeDate instead._ Will be removed at 2019-03-01. |
-| planningDateType | string | No | **Deprecated.** _Use plan.indicativeDateType instead._ Will be removed at 2019-03-01. |
-| planningAccountIds | string\[\] | No | **Deprecated.** _Use plan.accountIds instead._ Will be removed at 2019-03-01. |
+| timestamp | date | Yes | **Deprecated.** _Use plan.executionTime instead._ Will be removed at 2019-04-01. |
+| planningDate | date | No | **Deprecated.** _Use plan.indicativeDate instead._ Will be removed at 2019-04-01. |
+| planningDateType | string | No | **Deprecated.** _Use plan.indicativeDateType instead._ Will be removed at 2019-04-01. |
+| planningAccountIds | string\[\] | No | **Deprecated.** _Use plan.accountIds instead._ Will be removed at 2019-04-01. |
 
 ### The assignment\_plan object
 
@@ -75,27 +75,37 @@ If the organization is connected to a financial system then Previsto will do boo
 | amount | number | No | **Deprecated**. _Use unitPrice instead._ Will be removed at 20190301. |
 | agreementId | string | No | **Deprecated**. _Use reference instead._ Will be removed at 20190301. |
 
-### Create an assignment <a id="create-an-assignment"></a>
+{% api-method method="post" host="https://api.previsto.io/assignments" path="/" %}
+{% api-method-summary %}
+Create an Assignment
+{% endapi-method-summary %}
 
-> Definition
+{% api-method-description %}
+Creates a new assignment. Takes the assignment object in the body.
+{% endapi-method-description %}
 
-```text
-POST https://api.previsto.io/assignments
-`
-```
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="" type="object" required=false %}
+Assignment object
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
 
-> Example Request
+{% api-method-body-parameters %}
+{% api-method-parameter name="." type="object" required=true %}
+Assignment object.
+{% endapi-method-parameter %}
+{% endapi-method-body-parameters %}
+{% endapi-method-request %}
 
-```text
-curl -X POST https://api.previsto.io/assignments \
-   -u sk_12345: \
-   -d contactId="cont-242342DgHH2lkjkj23" \
-   -d accountId="acct-dfEfdv3342FD"
-```
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
 
-> Example Response
+{% endapi-method-response-example-description %}
 
-```text
+```javascript
 {
   "id" : "asgmt-klJ23j4L23j43",
   "createdDate" : "2017-05-21T20:22:28.110Z",
@@ -116,35 +126,37 @@ curl -X POST https://api.previsto.io/assignments \
   "tasks" : [ ]
 }
 ```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
 
-Creates a new assignment.
+{% api-method method="get" host="https://api.previsto.io/assignments" path="/:id" %}
+{% api-method-summary %}
+Read an Assignment
+{% endapi-method-summary %}
 
-#### Arguments <a id="arguments"></a>
+{% api-method-description %}
+Retrieves a specific assignment by id.
+{% endapi-method-description %}
 
-`TBD`
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="id" type="string" required=false %}
+The id of the assignment to retrieve.
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
 
-#### Returns <a id="returns"></a>
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
 
-Returns an assignment object if the call succeeded. If invalid arguments are provided, the call will return an error.
+{% endapi-method-response-example-description %}
 
-### Retrieve an assignment <a id="retrieve-an-assignment"></a>
+```javascript
 
-> Definition
-
-```text
-GET https://api.previsto.io/assignments/{assignment_ID}
-```
-
-> Example Request
-
-```text
-curl https://api.previsto.io/assignments/asgmt-klJ23j4L23j43 \
-   -u sk_12345:
-```
-
-> Example Response
-
-```text
 {
   "id" : "asgmt-klJ23j4L23j43",
   "createdDate" : "2017-05-21T20:22:28.110Z",
@@ -165,18 +177,10 @@ curl https://api.previsto.io/assignments/asgmt-klJ23j4L23j43 \
   "tasks" : [ ]
 }
 ```
-
-Retrieves the details of an existing assignment. You need only supply the unique assignment identifier that was returned with the assignment object upon a successfull creation.
-
-#### Arguments <a id="arguments"></a>
-
-| Field | Type | Required | Description |
-| :--- | :--- | :--- | :--- |
-| id | string | Yes | The identifier of the assignment to be retrieved. |
-
-#### Returns <a id="returns"></a>
-
-Returns an assignment object if a valid identifier was provided.
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
 
 ### Update an assignment <a id="update-an-assignment"></a>
 
