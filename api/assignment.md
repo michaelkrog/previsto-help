@@ -334,27 +334,5 @@ Returns a list of your assignments.
 
 An array of up to limit assignments, starting after offset. Each entry in the array is a separate assignment object. If no more assignments are available, the resulting array will be empty. This request should never return an error.
 
-### Retrieve summaries <a id="retrieve-summaries"></a>
-
-`TBD`
-
-### Get previous assignments for agreements <a id="get-previous-assignments-for-agreements"></a>
-
-`TBD`
-
-### Get next assignments for agreements <a id="get-next-assignments-for-agreements"></a>
-
-`TBD`
-
-### Pin assignments <a id="pin-assignments"></a>
-
-`TBD`
-
-### Defer assignments <a id="defer-assignments"></a>
-
-`TBD`
-
-### Mark assignments handled <a id="mark-assignments-handled"></a>
-
-`TBD`
+###  <a id="retrieve-summaries"></a>
 
