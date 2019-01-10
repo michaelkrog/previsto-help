@@ -182,25 +182,37 @@ The id of the assignment to retrieve.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-### Update an assignment <a id="update-an-assignment"></a>
+{% api-method method="put" host="https://api.previsto.io/assignments" path="/:id" %}
+{% api-method-summary %}
+Update an Assignment
+{% endapi-method-summary %}
 
-> Definition
+{% api-method-description %}
+Updates a specific assignment. Any parameters not provided will be left unchanged.
+{% endapi-method-description %}
 
-```text
-POST https://api.previsto.io/assignments/{assignment_ID}
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="id" type="string" required=false %}
+The id of the assignment to update.
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+
+{% api-method-body-parameters %}
+{% api-method-parameter name="." type="object" required=false %}
+Assignment object.
+{% endapi-method-parameter %}
+{% endapi-method-body-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
 ```
-
-> Example Request
-
-```text
-curl https://api.previsto.io/assignments/_123123123 \
-   -u sk_12345: \
-   -d number=1345
-```
-
-> Example Response
-
-```text
 {
   "id" : "asgmt-klJ23j4L23j43",
   "createdDate" : "2017-05-21T20:22:28.110Z",
@@ -227,18 +239,10 @@ curl https://api.previsto.io/assignments/_123123123 \
   } ]
 }
 ```
-
-Updates the specified assignment by setting the values of the parameters passed. Any parameters not provided will be left unchanged. For example, if you pass the number parameter, that becomes the assignment's new assignment number.
-
-This request accepts mostly the same arguments as the assignment creation call.
-
-#### Arguments <a id="arguments"></a>
-
-`TBD`
-
-#### Returns <a id="returns"></a>
-
-Returns the assignment object if the update succeeded. Returns [an error](http://tech.previsto.com/#errors) if update parameters are invalid.
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
 
 ### Delete an assignment <a id="delete-an-assignment"></a>
 
