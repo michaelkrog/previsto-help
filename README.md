@@ -16,7 +16,7 @@ På disse sider beskrives Previsto's funktioner og muligheder i praksis. Artikle
 
 ### API til udvikler
 
-Er du mere interesseret i hvordan du kan integrere med Previsto kan du læse om vores [REST API til softwareudviklere her](https://docs.previsto.com/help/api).
+Er du mere interesseret i hvordan du kan integrere med Previsto kan du læse om vores [REST API til softwareudviklere her](api/introduction-to-api.md).
 
 ### Feedback
 
