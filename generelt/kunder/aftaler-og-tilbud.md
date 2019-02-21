@@ -28,7 +28,10 @@ Information om hvor meget det koster kunden at få udført arbejdet. Beløbet vi
 
 **Aftaletype**
 
-Som standard er aftaletypen `Almindelig` hvilket betyder at de opgaver der planlægges for aftalen kan planlægges for sig selv eller sammen med andre opgaver hos kunden. Vælger du derimod `Supplerende` vil de planlagte opgaver kun kunne planlægges hvis du i forvejen har arbejde hos kunden i forbindelse med en `Almindelig` aftale. Dette er ofte anvendt af vinduespudsere til f.eks. indendørs vinduespolering som man kun ønsker at udføre når man også har andet arbejde på adressen.
+Der kan for hver aftale vælges mellem 2 forskellige aftaletyper:
+
+* **Almindelig**: betyder at de opgaver der planlægges for aftalen frit kan planlægges.
+* **Supplerende**: betyder at opgaver for aftalen kun planlægges hvis der i forvejen er planlagt opgaver for andre aftaler hos kunden. Det kan f.eks. være ved tilfælde hvor der kun skal udføres en indvendig opgave hos en kunde når der i forvejen er planlagt at der skal udføres en udendørs opgave. 
 
 #### Meddelelse til kunden - forud for arbejdet og efter udført arbejde
 
