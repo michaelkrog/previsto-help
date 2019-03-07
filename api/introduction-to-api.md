@@ -19,8 +19,6 @@ We would love your feedback at any time. Contact us at [support@previsto.com](ma
 ```text
 $ curl https://api.previsto.io/account \
    -u sk_12345:
-
-Previsto uses Basic Authntication to pass an auth token. A sample test API key has been provided in all the examples on the page, so you can test out any example right away.
 ```
 
 You authenticate to the Previsto API by providing one of your API keys in the request. You can manage your API keys from your account. You can have multiple API keys active at one time. Your API keys carry many privileges, so be sure to keep them secret!
