@@ -75,7 +75,7 @@ When an error occurs the response will always contain a JSON object as shown to 
 
 ### Request Limit <a id="request-limit"></a>
 
-The Previsto API will rate limit requests on a per-API key basis. Each key will by default have **a limit of 60 requests per minute**. If you exceed your rate limit you will receive an API response with a 429 HTTP status code and a brief message indicating you have exceeded your rate limit.
+The Previsto API will rate limit requests on a per-API key basis. Each key will by default have **a limit of 120 requests per minute**. If you exceed your rate limit you will receive an API response with a 429 HTTP status code and a brief message indicating you have exceeded your rate limit.
 
 To increase your rate limit, contact sales.
 
