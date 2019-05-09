@@ -34,6 +34,10 @@
   * [Integration med Billy](integration-til-regnskab/automatisk-fakturering/integration-med-billy.md)
   * [Integration med Dinero](integration-til-regnskab/automatisk-fakturering/integration-med-dinero.md)
 
+## Integration til Previsto
+
+* [Oprettelse af kunder direkte fra eget website](integration-til-previsto/integration-fra-eget-website.md)
+
 ## Api
 
 * [Introduction to Api](api/introduction-to-api.md)
