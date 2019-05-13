@@ -45,6 +45,12 @@ previsto.createContact(contact).then(function(result) {
 
 ### previsto.createAgreement\(\)
 
+```text
+previsto.createAgreement(agreement).then(function(result) {
+  // Handle result.error or result.token
+});
+```
+
 ### previsto.searchAddress\(\)
 
 ### previsto.requestTwoFaToken\(\)
