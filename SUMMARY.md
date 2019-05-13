@@ -38,6 +38,7 @@
 
 * [Previsto.js og Elements](integration-til-previsto/previsto.js-og-elements.md)
 * [Reference](integration-til-previsto/reference.md)
+* [Api Keys](integration-til-previsto/api-keys.md)
 
 ## Api
 
