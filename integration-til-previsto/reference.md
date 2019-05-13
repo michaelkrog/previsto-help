@@ -33,6 +33,16 @@ We‘ve placed a random API key in the code. Replace it with your [actual publis
 
 ### previsto.createContact\(\)
 
+Use `previsto.createContact()` to create a contact from information collected by Elements.
+
+```text
+previsto.createContact(contact).then(function(result) {
+  // Handle result.error or result.token
+});
+```
+
+
+
 ### previsto.createAgreement\(\)
 
 ### previsto.searchAddress\(\)
