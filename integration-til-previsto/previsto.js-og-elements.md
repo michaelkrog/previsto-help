@@ -9,10 +9,8 @@ Denne side er under opbygning!
 {% endhint %}
 
 {% hint style="info" %}
-Denne sektion er af teknisk art og kræver at man selv har en basal viden om webudvikling \(HTML/Javascript\). 
+Denne sektion er af teknisk art og kræver at man selv har en basal viden om webudvikling \(HTML/Javascript\)
 {% endhint %}
-
-Denne sektion er af teknisk art og kræver at man selv har en basal viden om webudvikling \(HTML/Javascript\). 
 
 Previsto.js er vores Javascript-bibliotek til at bygge integrationer til Previsto fra andre hjemmesider. Det har primært fokus på offentlige hjemmesider og udstiller kun den begrænsede funktionalitet der er tilgængeligt herfra. Den primære tilgang med Previsto.js er Elements, som hjælper dig til at lave en integration ud fra nogle UI elementer du kan tilpasse til dit site.
 
