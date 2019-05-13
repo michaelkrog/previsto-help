@@ -26,10 +26,10 @@ We‘ve placed a random API key in the code. Replace it with your [actual publis
 
 ### T​he Previsto Object 
 
-* [previsto.createContact\(\)](https://app.gitbook.com/@previsto/s/help/~/drafts/-LemIT6N4OkLu6IxNDL6/primary/integration-til-previsto/reference#previsto-createcontact)
-* [p​revisto.createAgreement\(\)](https://app.gitbook.com/@previsto/s/help/~/drafts/-LemIT6N4OkLu6IxNDL6/primary/integration-til-previsto/reference#previsto-createagreement)
-* [p​revisto.searchAddress\(\)](https://app.gitbook.com/@previsto/s/help/~/drafts/-LemIT6N4OkLu6IxNDL6/primary/integration-til-previsto/reference#previsto-searchaddress)
-* [p​revisto.requestTwoFaToken\(\)](https://app.gitbook.com/@previsto/s/help/~/drafts/-LemIT6N4OkLu6IxNDL6/primary/integration-til-previsto/reference#previsto-requesttwofatoken)
+* [previsto.createContact\(\)](reference.md#previsto-createcontact)
+* [p​revisto.createAgreement\(\)](reference.md#previsto-createagreement)
+* [p​revisto.searchAddress\(\)](reference.md#previsto-searchaddress)
+* [p​revisto.requestTwoFaToken\(\)](reference.md#previsto-requesttwofatoken)
 
 ### previsto.createContact\(\)
 
