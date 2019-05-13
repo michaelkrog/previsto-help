@@ -36,7 +36,8 @@
 
 ## Integration til Previsto
 
-* [Oprettelse af kunder direkte fra eget website](integration-til-previsto/integration-fra-eget-website.md)
+* [Previsto.js og Elements](integration-til-previsto/previsto.js-og-elements.md)
+* [Reference](integration-til-previsto/reference.md)
 
 ## Api
 
