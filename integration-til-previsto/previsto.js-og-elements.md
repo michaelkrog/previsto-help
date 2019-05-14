@@ -18,14 +18,14 @@ Med Previsto.js kan du oprette nye kontakter og aftaler samt lave[ geokodning](h
 
 ### Previsto Elements
 
-Før du påbegynder integration til Previsto direkte fra dit eget website, skal du have en `public apikey` til din virksomhed. Du finder den under menupunktet `Udvikler` i Previsto når du er logget ind i din virksomhed.
+Previsto Elements er et set UI-elementer so du kan bruge til at bygge en kundeformular på dit eget website, som integrerer med Previsto via [previsto.js](reference.md).  Elements tilbyder færdige UI komponenter som input-felter og knapper til at indsamle informationer fra dine kunder. 
 
-![Du kan finde din Public ApiKey n&#xE5;r du er logget ind i Previsto](../.gitbook/assets/skaermbillede-2019-05-09-kl.-12.43.51.png)
+Elements inkluderer blandt andet følgende:
 
-{% hint style="danger" %}
-**Bemærk!**  
-Det er vigtigt at du kun bruger **Public ApiKey** når du integrerer fra dit website. Denne nøgle har ekstremt begrænset rettigheder og er egnet til at blive anvendt på offentlige steder - som f.eks. på dit website. Din **Public ApiKey** kan nemlig ikke bruges til at hente oplysninger fra din virksomhed. Den kan udelukkende bruges til at oprette en bruger med tilhørende tilbud/aftale. 
-{% endhint %}
+* Addressesøgning med indbygget geokodning
+* Validering af indtastet telefonnummer
+* Responsive design så formularen tilpasser sig både store og små skærme.
+* Mulighed for at tilpasse designet så det passer på din hjemmeside.
 
-### 
+
 

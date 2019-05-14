@@ -11,7 +11,7 @@ This is the API reference for Previsto.js. Use Previsto.js’ APIs to create con
 However you’re using Previsto.js, you always begin by including the library and setting your API key. To get started, include this script on your pages—it should always be loaded directly from **https://js.previsto.com**:
 
 ```text
-<script src="https://js.previsto.com/v1/"></script>
+<script src="https://js.previsto.com/v1/previsto.js"></script>
 ```
 
 ### Previsto\(publicApiKey\[, options\]\)
