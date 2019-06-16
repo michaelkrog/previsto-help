@@ -8,11 +8,13 @@ Før du kan integrere med [Dinero](https://dinero.dk/) i Previsto skal du oprett
 
 ### Opret API-nøgle i Dinero <a id="opret-api-n&#xF8;gle-i-dinero"></a>
 
-Start med at logge ind på [Dinero](https://dinero.dk/). Under “Indstillinger”\(tandhjulet oppe i højre hjørne\) finder du menupunktet “API”. Det bringer dig til en oversigt over dine API-nøgler.
+Start med at logge ind på [Dinero](https://dinero.dk/). Under “Indstillinger”\(tandhjulet oppe i højre hjørne\) finder du menupunktet “Integrationer”. Det bringer dig til en oversigt over bl.a. dine API-nøgler.
 
 Opret en ny nøgle og giv den en beskrivelse f.eks `Previsto`. Kopier nøglen til din udklipsholder. Læg også mærke til dit `Firma ID` i bunden af skærmen, da dette også skal bruges i Previsto.
 
-![API-n&#xF8;gler i Dinero](https://previsto.com/images/support/faq/find_keys_dinero.png)
+![V&#xE6;lg integrationer i menuen &apos;indstillinger&apos;.](../../.gitbook/assets/skaermbillede-fra-2019-06-16-07.42.19.png)
+
+![Opret ny Api-n&#xF8;gle.](../../.gitbook/assets/skaermbillede-fra-2019-06-16-07.43.30.png)
 
 ### Indstil regnskabssystem i Previsto <a id="indstil-regnskabssystem-i-previsto"></a>
 

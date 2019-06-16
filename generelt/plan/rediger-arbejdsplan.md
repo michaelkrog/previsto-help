@@ -22,7 +22,7 @@ Klik på opgaven på kortet og vælg derefter udskyd. En dialog vil åbne og giv
 
 #### Udskyd alle opgaver på ruten
 
-![](../../.gitbook/assets/skaermbillede-2018-10-28-kl.-14.22.20.png)
+![](../../.gitbook/assets/skaermbillede-2018-10-28-kl.-14.22.20%20%281%29.png)
 
 I højre side over listen af opgaver på arbejdsplanen kan du vælge udskyd for alle de opgaver der endnu ikke er blevet behandlet.
 

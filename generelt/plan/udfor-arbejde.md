@@ -8,7 +8,7 @@ description: >-
 
 Når du er i gang med din arbejdsdag er det godt at holde styr på hvor langt du er kommet efterhånden som dagen skrider frem. Det giver Previsto dig mulighed for direkte i planen.
 
-![Du kan p&#xE5;begynde og gennemf&#xF8;re opgaver direkte i planen](../../.gitbook/assets/skaermbillede-2018-10-30-kl.-09.48.00%20%283%29.png)
+![Du kan p&#xE5;begynde og gennemf&#xF8;re opgaver direkte i planen](../../.gitbook/assets/skaermbillede-2018-10-30-kl.-09.48.00.png)
 
 ### Påbegynd opgave
 
