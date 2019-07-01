@@ -35,7 +35,7 @@ Der kan for hver aftale vælges mellem 2 forskellige aftaletyper:
 
 #### Meddelelse til kunden - forud for arbejdet og efter udført arbejde
 
-Hvis angivet, vil teksten blive inkluderet henholdsvis i påmindelser/varslinger der sendes til kunden før arbejdet udføres og i notifikationer efter opgaven er blevet udført.
+Hvis angivet, vil teksten blive inkluderet som *signaturtekst* henholdsvis i påmindelser/varslinger der sendes til kunden før arbejdet udføres og i notifikationer efter opgaven er blevet udført.
 
 {% page-ref page="../virksomhed/notifikationer.md" %}
 
