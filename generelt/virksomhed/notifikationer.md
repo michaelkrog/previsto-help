@@ -30,7 +30,7 @@ Når kunden får tilsendt en varsling indeholder den følgende besked:
 Kære <kundenavn>
 
 Vi kommer den <dato + evt. tidspunkt for servicevindue> og udfører følgende arbejde:
-* <opgavens titel + varslingstekst>
+* <opgavens titel + tekst forud for arbejde>
 
 Med venlig hilsen
 <firmanavn>
@@ -49,7 +49,7 @@ Når kunden modtager en notifikation om udført arbejde vil den indeholde følge
 Kære <kundenavn>
 
 Vi har den <dato> udført følgende arbejde:
-* <opgavens titel>
+* <opgavens titel + meddelelse efter udført arbejde>
 
 Vi ser frem til at servicere dem igen.
 
