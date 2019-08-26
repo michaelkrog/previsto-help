@@ -49,10 +49,6 @@ If the organization is connected to a financial system then Previsto will do boo
 | status | string | No | Financial status of this assignment. `None`, `AppendedToOrder`, `Invoiced` or `Fulfilled`. |
 | plan | assignment\_plan | No | Planning details for the assignment.  |
 | tasks | task\[\] | No | Array of task elements in this assignments. |
-| timestamp | date | Yes | **Deprecated.** _Use plan.executionTime instead._ Will be removed at 2019-04-01. |
-| planningDate | date | No | **Deprecated.** _Use plan.indicativeDate instead._ Will be removed at 2019-04-01. |
-| planningDateType | string | No | **Deprecated.** _Use plan.indicativeDateType instead._ Will be removed at 2019-04-01. |
-| planningAccountIds | string\[\] | No | **Deprecated.** _Use plan.accountIds instead._ Will be removed at 2019-04-01. |
 
 ### The assignment\_plan object
 
@@ -72,8 +68,6 @@ If the organization is connected to a financial system then Previsto will do boo
 | unitPrice | number | No | The amount to charge in 1⁄100 of the monetary unit \(fx. cents or øre\) without VAT. |
 | duration | number | No | The duration in minutes of the work. Minimum 3 minutes. |
 | workType | string | No | The type of work. Currently only 'WindowCleaning'. |
-| amount | number | No | **Deprecated**. _Use unitPrice instead._ Will be removed at 20190301. |
-| agreementId | string | No | **Deprecated**. _Use reference instead._ Will be removed at 20190301. |
 
 {% api-method method="post" host="https://api.previsto.io/assignments" path="/" %}
 {% api-method-summary %}
