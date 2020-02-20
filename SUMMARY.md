@@ -33,6 +33,7 @@
 * [Automatisk fakturering](integration-til-regnskab/automatisk-fakturering/README.md)
   * [Integration med Billy](integration-til-regnskab/automatisk-fakturering/integration-med-billy.md)
   * [Integration med Dinero](integration-til-regnskab/automatisk-fakturering/integration-med-dinero.md)
+  * [Integration med e-conomic](integration-til-regnskab/automatisk-fakturering/integration-med-e-conomic.md)
 
 ## Integration til Previsto
 

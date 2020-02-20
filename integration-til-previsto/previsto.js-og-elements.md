@@ -18,7 +18,7 @@ Med Previsto.js kan du oprette nye kontakter og aftaler samt lave[ geokodning](h
 
 ### Previsto Elements
 
-Previsto Elements er et set UI-elementer so du kan bruge til at bygge en kundeformular på dit eget website, som integrerer med Previsto via [previsto.js](reference.md).  Elements tilbyder færdige UI komponenter som input-felter og knapper til at indsamle informationer fra dine kunder. 
+Previsto Elements er et set UI-elementer som du kan bruge til at bygge en kundeformular på dit eget website, som integrerer med Previsto via [previsto.js](reference.md).  Elements tilbyder færdige UI komponenter som input-felter og knapper til at indsamle informationer fra dine kunder. 
 
 Elements inkluderer blandt andet følgende:
 
