@@ -32,5 +32,35 @@ I Previsto vælger du Virksomhed i menuen og vælger indstillinger. Herunder kan
 
 ![](../../.gitbook/assets/skaermbillede-2020-02-20-kl.-16.21.33.png)
 
-Gem ændringerne og herefter vil Previsto automatisk hente kunder fra dit regnskab, oprette nye kunder og fakturaer i regnskabet efterhånden som du markerer arbejde udført og sender fakturaerne på mail til dine kunder.
+Gem ændringerne og herefter vil Previsto automatisk hente kunder fra dit regnskab, oprette nye kunder og bogføre fakturaer i regnskabet efterhånden som du markerer arbejde udført og sender fakturaerne på mail til dine kunder.
+
+### **Vigtige oplysninger**
+
+Følgende er nogle vigtige oplysninger om vores integration til e-conomic. Læs dem venligst grundigt i forbindelse med opsætning af integration til e-conomic.
+
+#### **Vare og varegruppe** 
+
+Previsto opretter en ny vare med koden `PV-WC` i dit regnskab når du tilknytter Previsto. Denne vare bruges hver gang arbejde faktureres. Det er dog ikke muligt for Previsto at hente oplysninger om hvilken varegruppe der som udgangspunkt skal bruges når Previsto opretter vare. Previsto bruger derfor den første varegruppe den kan finde den kan finde.
+
+![Previsto opretter en ny vare med den f&#xF8;rste varegruppe den kan finde](../../.gitbook/assets/skaermbillede-2020-02-24-kl.-14.57.59.png)
+
+#### Kunder og kundegrupper
+
+Ligeledes oprette Previsto kunder i dit regnskab, hvis de kunder der bliver faktureret endnu ikke eksisterer i dit regnskab. Det er dog ikke heller muligt for Previsto at hente oplysninger om hvilken kundegruppe der som udgangspunkt skal bruges. Previsto bruger derfor også den første kundegruppe den kan finde som vist på i nedenstående billede.
+
+![Previsto bruger den f&#xF8;rste kundegruppe den kan finde n&#xE5;r der oprettes kunder](../../.gitbook/assets/skaermbillede-2020-02-24-kl.-15.00.55.png)
+
+#### **Afsendelse af faktura via email**
+
+Ved afsendelse af fakturaer via email fra Previsto, håndteres dette udelukkende af Previsto. Det betyder følgende:
+
+* Email'en har et andet udseende end hvis den var sendt fra e-conomic.
+* Email'en er sendt fra Previsto's domæne \(previsto.com\), men med dit firmanavn som afsender.
+* Afsendelsen af email'en bliver ikke registreret i e-conomic.
+
+Årsagen til at vi håndterer afsendelsen af email i vores e-conomic integration skyldes at e-conomic ikke understøtter afsendelse af fakturaer via deres API.
+
+> Sending sales documents via email is not supported through API. To send an order or invoice via email, you must fetch the necessary data/PDF via the API and email either the file or a link to a self-hosted endpoint via own email solution. – e-conomic
+
+ 
 
