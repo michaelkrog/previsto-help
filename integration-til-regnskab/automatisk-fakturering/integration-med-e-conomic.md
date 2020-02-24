@@ -12,7 +12,7 @@ Følg blot følgende steps for at koble Previsto sammen med e-conomic.
 
 Det første du skal gøre er at knytte Previsto til dit regnskab. Det gør du ved at klikke på nedenstående link: 
 
-[https://secure.e-conomic.com/secure/api1/requestaccess.aspx?appPublicToken=lZQNcnlmtGDfBFVbfS2SjWCxQod2523ofFXPSy4B3qc1](https://secure.e-conomic.com/secure/api1/requestaccess.aspx?appPublicToken=lZQNcnlmtGDfBFVbfS2SjWCxQod2523ofFXPSy4B3qc1&redirectUrl=http%3A%2F%2Fapp.previsto.com)
+[https://secure.e-conomic.com/secure/api1/requestaccess.aspx?appPublicToken=lZQNcnlmtGDfBFVbfS2SjWCxQod2523ofFXPSy4B3qc1](https://secure.e-conomic.com/secure/api1/requestaccess.aspx?appPublicToken=lZQNcnlmtGDfBFVbfS2SjWCxQod2523ofFXPSy4B3qc1)
 
 Du vil evt. blive bedt om at logge ind i dit regnskab i e-conomic og herefter spurgt om du vil tilføje Previsto til dit regnskab.
 
