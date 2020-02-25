@@ -16,13 +16,13 @@ Det første du skal gøre er at knytte Previsto til dit regnskab. Det gør du ve
 
 Du vil evt. blive bedt om at logge ind i dit regnskab i e-conomic og herefter spurgt om du vil tilføje Previsto til dit regnskab.
 
-![Tilf&#xF8;jelse af app til regnskab](../../.gitbook/assets/skaermbillede-2020-02-20-kl.-16.06.39.png)
+![Tilf&#xF8;jelse af app til regnskab](../.gitbook/assets/skaermbillede-2020-02-20-kl.-16.06.39.png)
 
 ### 2. Kopiér kode
 
 Når du har valgt at tilføje app'en til dit regskab vil du få vist en kode som vist i nedenstående billede. Koden skal du markere og kopiere \(CTRL+C el. CMD+C\).
 
-![](../../.gitbook/assets/skaermbillede-2020-02-20-kl.-16.07.20.png)
+![](../.gitbook/assets/skaermbillede-2020-02-20-kl.-16.07.20.png)
 
 Denne kode skal du bruge for at knytte Previsto til e-conomic.
 
@@ -30,7 +30,7 @@ Denne kode skal du bruge for at knytte Previsto til e-conomic.
 
 I Previsto vælger du Virksomhed i menuen og vælger indstillinger. Herunder kan du angive e-conomic som regnskabsprogram og angive koden du lige har kopieret.
 
-![](../../.gitbook/assets/skaermbillede-2020-02-20-kl.-16.21.33.png)
+![](../.gitbook/assets/skaermbillede-2020-02-20-kl.-16.21.33.png)
 
 Gem ændringerne og herefter vil Previsto automatisk hente kunder fra dit regnskab, oprette nye kunder og bogføre fakturaer i regnskabet efterhånden som du markerer arbejde udført og sender fakturaerne på mail til dine kunder.
 
@@ -42,13 +42,13 @@ Følgende er nogle vigtige oplysninger om vores integration til e-conomic. Læs 
 
 Previsto opretter en ny vare med koden `PV-WC` i dit regnskab når du tilknytter Previsto. Denne vare bruges hver gang arbejde faktureres. Det er dog ikke muligt for Previsto at hente oplysninger om hvilken varegruppe der som udgangspunkt skal bruges når Previsto opretter vare. Previsto bruger derfor den første varegruppe den kan finde den kan finde.
 
-![Previsto opretter en ny vare med den f&#xF8;rste varegruppe den kan finde](../../.gitbook/assets/skaermbillede-2020-02-24-kl.-14.57.59.png)
+![Previsto opretter en ny vare med den f&#xF8;rste varegruppe den kan finde](../.gitbook/assets/skaermbillede-2020-02-24-kl.-14.57.59.png)
 
 #### Kunder og kundegrupper
 
 Ligeledes oprette Previsto kunder i dit regnskab, hvis de kunder der bliver faktureret endnu ikke eksisterer i dit regnskab. Det er dog ikke heller muligt for Previsto at hente oplysninger om hvilken kundegruppe der som udgangspunkt skal bruges. Previsto bruger derfor også den første kundegruppe den kan finde som vist på i nedenstående billede.
 
-![Previsto bruger den f&#xF8;rste kundegruppe den kan finde n&#xE5;r der oprettes kunder](../../.gitbook/assets/skaermbillede-2020-02-24-kl.-15.00.55.png)
+![Previsto bruger den f&#xF8;rste kundegruppe den kan finde n&#xE5;r der oprettes kunder](../.gitbook/assets/skaermbillede-2020-02-24-kl.-15.00.55.png)
 
 #### **Afsendelse af faktura via email**
 

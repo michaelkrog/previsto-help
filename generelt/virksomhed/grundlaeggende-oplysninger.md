@@ -20,8 +20,6 @@ Under denne fane kan du angive hvordan Previsto skal fungere for lige netop din 
 
 Du kan angive om din virksomhed er knyttet til et regnskabssystem og i så fald hvilket. Ved at angive det kan du få Previsto til automatisk at fakturere de arbejde din virksomhed udfører. Læs mere om detaljerne i det på følgende side:
 
-{% page-ref page="../../integration-til-regnskab/automatisk-fakturering/" %}
-
 #### Låste dage <a id="l&#xE5;ste-dage"></a>
 
 Previsto forsøger hele tiden at optimere dine ruter. Det betyder at der kan blive justeret løbende i de ruter der er planlagt. Men mange virksomheder har behov for at kunne låse planen fast for nært forestående arbejde. Derfor kan du med denne indstilling angive hvor mange dage ud i fremtiden du ønsker planen låst for din virksomhed.

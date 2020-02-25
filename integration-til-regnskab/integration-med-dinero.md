@@ -12,9 +12,9 @@ Start med at logge ind på [Dinero](https://dinero.dk/). Under “Indstillinger�
 
 Opret en ny nøgle og giv den en beskrivelse f.eks `Previsto`. Kopier nøglen til din udklipsholder. Læg også mærke til dit `Firma ID` i bunden af skærmen, da dette også skal bruges i Previsto.
 
-![V&#xE6;lg integrationer i menuen &apos;indstillinger&apos;.](../../.gitbook/assets/skaermbillede-fra-2019-06-16-07.42.19.png)
+![V&#xE6;lg integrationer i menuen &apos;indstillinger&apos;.](../.gitbook/assets/skaermbillede-fra-2019-06-16-07.42.19.png)
 
-![Opret ny Api-n&#xF8;gle.](../../.gitbook/assets/skaermbillede-fra-2019-06-16-07.43.30.png)
+![Opret ny Api-n&#xF8;gle.](../.gitbook/assets/skaermbillede-fra-2019-06-16-07.43.30.png)
 
 ### Indstil regnskabssystem i Previsto <a id="indstil-regnskabssystem-i-previsto"></a>
 

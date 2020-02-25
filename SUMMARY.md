@@ -29,11 +29,9 @@
 ## Integration til regnskab
 
 * [Grundlæggende om fakturering](integration-til-regnskab/grundlaeggende-om-fakturering.md)
-* [Manuel fakturering](integration-til-regnskab/manuel-fakturering.md)
-* [Automatisk fakturering](integration-til-regnskab/automatisk-fakturering/README.md)
-  * [Integration med Billy](integration-til-regnskab/automatisk-fakturering/integration-med-billy.md)
-  * [Integration med Dinero](integration-til-regnskab/automatisk-fakturering/integration-med-dinero.md)
-  * [Integration med e-conomic](integration-til-regnskab/automatisk-fakturering/integration-med-e-conomic.md)
+* [Integration med Billy](integration-til-regnskab/integration-med-billy.md)
+* [Integration med Dinero](integration-til-regnskab/integration-med-dinero.md)
+* [Integration med e-conomic](integration-til-regnskab/integration-med-e-conomic.md)
 
 ## Integration til Previsto
 

@@ -39,8 +39,6 @@ Previsto kan ud fra de informationer der er tilgængelige foretage en ruteplanl�
 
 Previsto fokuserer på planlægning og overlader regnskabet til systemer der fokuserer på regnskab. Det giver overordnet den bedste løsning når de 2 verdener kombineres.
 
-{% page-ref page="../integration-til-regnskab/automatisk-fakturering/" %}
-
 ### Hvad kan jeg bruge Previsto til
 
 Vi har kunder i mange forskellige brancher som f.eks. vinduespudsning, ejendomsservice, hjemmehjælp, gartnere, kørende sælgere m.m. Men Previsto kan bruges i mange flere brancher.

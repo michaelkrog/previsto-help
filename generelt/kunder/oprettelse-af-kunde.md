@@ -28,8 +28,6 @@ EAN står for ”European Article Numbering”. Det er altså det specifikke num
 #### Hvad betyder ‘kundenummer’? <a id="hvad-betyder-kundenummer"></a>
 
 Nummeret kan bruges som en identifikation af kunden hvis man manuelt ønsker at referere til samme kunde oprettet i et eksternt system, f.eks. et regnskabsprogram som Dinero ikke har integration til. Det giver et let overblik over hvilket kunder du manuelt skal fakturere i dit eksterne regnskabssystem.
-
-{% page-ref page="../../integration-til-regnskab/manuel-fakturering.md" %}
 {% endtab %}
 
 {% tab title="Planlægning" %}
@@ -52,8 +50,6 @@ Indikerer overfor medarbejderen at kunden skal have besked fra gang til gang om 
 
 {% tab title="Bogføring" %}
 Denne fane giver mulighed for at justere hvordan kunden bogføres hvis du har integration til et regnskabssystem.
-
-{% page-ref page="../../integration-til-regnskab/automatisk-fakturering/" %}
 
 #### Bogføring af arbejde <a id="bogf&#xF8;ring-af-arbejde"></a>
 
