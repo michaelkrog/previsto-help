@@ -4,6 +4,12 @@ description: Hvad er Previsto og hvad kan det gøre for dig?
 
 # Introduktion
 
+{% hint style="info" %}
+### Brug for personlig support?
+
+Gå til siden [Kontakt med Previsto's support](kontakt-med-previstos-support.md).
+{% endhint %}
+
 ### Previsto's formål
 
 Previsto er et planlægningsystem målrettet virksomheder i servicebranchen. Vinduespudsere, rengøringsfirmaer, skorstensfejere, sælgere og hjemmehjælpere er blot nogle få eksempler på dem der allerede nyder stor gavn af at planlægge deres arbejde med Previsto.
