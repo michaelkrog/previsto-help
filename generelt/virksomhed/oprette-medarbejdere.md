@@ -9,10 +9,10 @@ Som udgangspunkt er der kun én medarbejder i virksomheden, men du kan oprette a
 ### Opret medarbejder <a id="opret-medarbejder"></a>
 
 1. Klik på “Medarbejdere” i menuen.
-2. Klik på ‘+’ i bunden af skærmen.
-3. Indtast navn, email, brugernavn og kodeord.
+2. Klik på **Invitér bruger** i øverst til højre.
+3. Indtast email-adressen på den bruger der skal inviteres og klik **OK**.
 
-Medarbejderen vil få tilsendt en velkomst mail. Han vil herefter kunne logge ind fx. via sin smartphone med det brugernavn og kodeord du har angivet.
+Medarbejderen vil få tilsendt en mail om han er inviteret ind i din virksomhed. I mail'en fremgår et link han kan følge for at acceptere invitationen og evt. oprette en Previsto profil. Han vil herefter kunne logge ind i din virksomhed fx. via webbrugerfladen eller vores mobile app.
 
 Opkrævningen af dit Previsto abonnement vil til enhver tid reflektere det antal medarbejdere du har knyttet til virksomheden. 
 
