@@ -46,10 +46,11 @@ Hvis du har sat Previsto til at sende en notifikation når en opgave er udført,
 Når kunden modtager en notifikation om udført arbejde vil den indeholde følgende besked:
 
 ```text
-Kære <kundenavn>
+Kære <her indsætte kundenavn>
 
-Vi har den <dato> udført følgende arbejde:
-* <opgavens titel + meddelelse efter udført arbejde>
+Vi har den <her indsættes dato> udført følgende arbejde:
+* <arbejdets beskrivelse> - <meddelelse efter udført arbejde>
+* <evt. mere arbejdes beskrivelse> - <meddelelse efter udført arbejde>
 
 Vi ser frem til at servicere dem igen.
 
