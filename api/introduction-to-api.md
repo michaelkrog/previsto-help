@@ -4,7 +4,7 @@ description: Integrate with Previsto using our Rest Api.
 
 # Introduction to Api
 
-Welcome to the [Previsto](http://previsto.io/) API documentation. This is the API used by the official Previsto web interface as well as our Mobile App, so everything the web ui is able to do can also be accomplished via the API.
+Welcome to the [Previsto](http://previsto.io/) API documentation. This API is also used by the official Previsto web interface as well as our Mobile App.
 
 The Previsto API is organized around [REST](http://en.wikipedia.org/wiki/Representational_State_Transfer). Our API is designed to have predictable, resource-oriented URLs and to use HTTP response codes to indicate API errors. We use built-in HTTP features, like HTTP authentication and HTTP verbs, which can be understood by off-the-shelf HTTP clients, and we support cross-origin resource sharing to allow you to interact securely with our API from a client-side web application \(though you should remember that you should never expose your secret API key in any public website's client-side code\). JSON will be returned in all GET, PUT and POST responses from the API, including errors. Only exception is DELETE requests which returns an empty response upon success.
 
