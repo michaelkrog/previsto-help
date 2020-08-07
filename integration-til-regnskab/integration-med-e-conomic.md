@@ -48,6 +48,8 @@ Previsto opretter en ny vare med koden `PV-WC` i dit regnskab når du tilknytter
 
 Ligeledes oprette Previsto kunder i dit regnskab, hvis de kunder der bliver faktureret endnu ikke eksisterer i dit regnskab. Det er dog ikke heller muligt for Previsto at hente oplysninger om hvilken kundegruppe der som udgangspunkt skal bruges. Previsto bruger derfor også den første kundegruppe den kan finde som vist på i nedenstående billede.
 
+Bemærk også at Previsto's integration til e-conomic ikker overfører kundenummer fra Previsto til E-conomic. Det betyder at E-conomic autogenererer kundenumre for alle de kunde der bliver oprettet af Previsto.
+
 ![Previsto bruger den f&#xF8;rste kundegruppe den kan finde n&#xE5;r der oprettes kunder](../.gitbook/assets/skaermbillede-2020-02-24-kl.-15.00.55.png)
 
 #### **Afsendelse af faktura via email**
