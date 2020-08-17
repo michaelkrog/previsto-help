@@ -4,6 +4,10 @@ description: Denne side beskriver hvordan du integrerer med e-conomic
 
 # Integration med e-conomic
 
+{% hint style="warning" %}
+**Bemærk:** Læs venligst de vigtige oplysninger vedr. integration til E-conomic nederst på denne side. I forhold til andre regnskabsysstemer har E-conomic diverse tekniske begrænsninger, som gør at integrationen til E-conomic har nogle funktionelle mangler.
+{% endhint %}
+
 Før du kan integrere med[ e-conomic](https://e-conomic.com) i [Previsto](https://previsto.com) skal du tilknytte Previsto til dit regnskab. Når du gør det vil du få **en kode** fra e-conomic som giver adgang til at programmerne kan arbejde sammen uden at du skal gøre noget manuelt fremover.
 
 Følg blot følgende steps for at koble Previsto sammen med e-conomic.
