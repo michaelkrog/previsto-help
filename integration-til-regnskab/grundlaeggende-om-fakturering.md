@@ -34,10 +34,13 @@ Du kan vælge hvordan fakturaen skal leveres. Du kan fx. vælge at den skal leve
 
 **Bemærk:** Det er pt. ikke muligt at sende EAN fakturaer fra Previsto. Dette skal gøres i regnskabssystemet. Du kan på den specifikke kunde sætte fakturalevering til `Ingen levering`. Når fakturaen er oprettet i regnskabssystemet kan du derfra sende fakturaen via EAN såfremt regnskabssystemet understøtter det.
 
-### Understøttede systemer
+### Understøttede systemer \(anbefalede\)
 
 * [Dinero](integration-med-dinero.md) \(Danmark\)
 * [Billy](integration-med-billy.md) \(Danmark\)
+
+### Understøttede systemer \(andre\)
+
 * [e-conomic](integration-med-e-conomic.md) \(Danmark\)
 
 ### Kommende integrationer
