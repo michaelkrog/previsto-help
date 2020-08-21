@@ -38,6 +38,20 @@ Med venlig hilsen
 <signaturtekst>
 ```
 
+#### Eksempel
+
+```text
+Kære Jørgen Jensen
+
+Vi kommer den 28/3-2020 kl. 8-12 og udfører følgende arbejde:
+* Udvendig vinduespolering
+* Indvendig vinduespolering - Husk at lade terassedøren stå åben
+
+Med venlig hilsen
+Rent rundt på gulvet Aps
+Kontakt os på tlf: 22 33 44 55
+```
+
 Når en kunde er blevet varslet, vil det blive angivet i planen. Opgaven vil blive låst til den dato kunden er blevet informeret om og har fået et servicevindue tildelt som Previsto vil anvende i planlægningen. Du kan dog stadig manuelt flytte opgaven til en anden dag.
 
 ### Besked om udført arbejde <a id="besked-om-udf&#xF8;rt-arbejde"></a>
@@ -58,6 +72,22 @@ Vi ser frem til at servicere dem igen.
 Med venlig hilsen
 <firmanavn>
 <signaturtekst>
+```
+
+#### Eksempel
+
+```text
+Kære Jørgen Jensen
+
+Vi har den 28/3-2020 kl. 8-12 udført følgende arbejde:
+* Udvendig vinduespolering
+* Indvendig vinduespolering
+
+Vi ser frem til at servicere dem igen.
+
+Med venlig hilsen
+Rent rundt på gulvet Aps
+Kontakt os på tlf: 22 33 44 55
 ```
 
 ### Bemærkning vedr. SMS’er <a id="bem&#xE6;rkning-vedr-smser"></a>
