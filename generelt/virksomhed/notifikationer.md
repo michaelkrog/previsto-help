@@ -27,10 +27,11 @@ På en kundes aftale kan du angive en varslingstekst. Det er en besked du ønske
 Når kunden får tilsendt en varsling indeholder den følgende besked:
 
 ```text
-Kære <kundenavn>
+Kære <her indsættes kundenavn>
 
 Vi kommer den <dato + evt. tidspunkt for servicevindue> og udfører følgende arbejde:
-* <opgavens titel + tekst forud for arbejde>
+* <arbejdets beskrivelse> - <tekst forud for arbejde>
+* <evt. mere arbejdes beskrivelse> - <tekst forud for arbejde>
 
 Med venlig hilsen
 <firmanavn>
@@ -46,7 +47,7 @@ Hvis du har sat Previsto til at sende en notifikation når en opgave er udført,
 Når kunden modtager en notifikation om udført arbejde vil den indeholde følgende besked:
 
 ```text
-Kære <her indsætte kundenavn>
+Kære <her indsættes kundenavn>
 
 Vi har den <her indsættes dato> udført følgende arbejde:
 * <arbejdets beskrivelse> - <meddelelse efter udført arbejde>
