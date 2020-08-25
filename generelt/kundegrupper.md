@@ -20,6 +20,10 @@ Men du kan også have kunder du gerne vil have bliver planlagt sammen selvom du 
 
 Med en kundegruppe kan du angive overfor Previsto en gruppe af kunder du ønsker skal planlægges sammen. Det kan hjælpe dine kunder til at falde tilbage i samme interval selvom du har taget dem lidt forskudt.
 
+Du kan tilføje kunder fra den fuldautomatiske gruppe til en ny eller eksisterende kundegruppe. Du klikker blot på den specifikke kunde på kortet og trykker på **`+`**. Kunden bliver tilføjet listen i toppen. Når du har valgt de kunder du vil flytte til en ny eller eksisterende kundegruppe klikker du på `Tilføj til`.
+
+![](../.gitbook/assets/skaermbillede-2020-08-25-kl.-07.23.57.png)
+
 **Eksempel**
 
 Hvis du har nogle kunder der skal besøges hver 4 uge, og du venter med at tage den ene kunde ugen efter du har taget de andre, så vil kundegruppen sørge for at de falder tilbage i samme interval. Hvis du tager en kunde forskudt i forhold til de andre kunder, så vil Previsto i højere grad forkorte eller forlænge intervallet til næste planlægning for igen at kunne planlægge kunden sammen med andre kunder i samme kundegruppe.
