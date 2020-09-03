@@ -13,7 +13,7 @@
 
 * [Indstillinger](generelt/virksomhed/README.md)
   * [Virksomhedsdetaljer](generelt/virksomhed/virksomhedsdetaljer.md)
-  * [Medarbejdere](generelt/virksomhed/oprette-medarbejdere.md)
+  * [Medarbejdere](generelt/virksomhed/medarbejdere.md)
   * [Regnskab](generelt/virksomhed/regnskab.md)
   * [Notifikationer](generelt/virksomhed/notifikationer.md)
   * [Variabler](generelt/virksomhed/variabler.md)
