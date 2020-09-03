@@ -11,11 +11,11 @@
 
 ## Generelt
 
-* [Virksomhed](generelt/virksomhed/README.md)
-  * [Grundlæggende oplysninger](generelt/virksomhed/grundlaeggende-oplysninger.md)
+* [Indstillinger](generelt/virksomhed/README.md)
+  * [Virksomhedsdetaljer](generelt/virksomhed/grundlaeggende-oplysninger.md)
+  * [Medarbejdere](generelt/virksomhed/oprette-medarbejdere.md)
+  * [Regnskab](generelt/virksomhed/regnskab.md)
   * [Notifikationer](generelt/virksomhed/notifikationer.md)
-  * [Oprette medarbejdere](generelt/virksomhed/oprette-medarbejdere.md)
-  * [Indstil arbejdstider](generelt/virksomhed/indstil-arbejdstider.md)
   * [Variabler](generelt/virksomhed/variabler.md)
 * [Kunder](generelt/kunder/README.md)
   * [Oprettelse af kunde](generelt/kunder/oprettelse-af-kunde.md)

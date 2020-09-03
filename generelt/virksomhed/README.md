@@ -1,4 +1,4 @@
-# Virksomhed
+# Indstillinger
 
 Følgende artikler beskriver hvordan du opsætter din virksomhed i Previsto:
 

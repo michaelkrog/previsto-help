@@ -2,9 +2,11 @@
 description: Angivelse af dine virksomhedsoplysninger
 ---
 
-# Grundlæggende oplysninger
+# Virksomhedsdetaljer
 
-Under **Virksomhed** i menuen til venstre kan du indtaste de grundlæggende oplysninger om din virksomhed. Her finder du de samme faner som i følgende beskrivelse:
+Under **Virksomhedsdetaljer** kan du indtaste de grundlæggende oplysninger om din virksomhed.
+
+Vi anbefaler at du udfylder alle detaljer omkring din virksomhed da de bruges i mange sammenhæng i systemet, så som ved afsendelse af notifikationer til dine kunder, de fakturaer du modtager fra Previsto samt ved integration til regnskab.
 
 {% tabs %}
 {% tab title="Generelt" %}

@@ -8,13 +8,13 @@ Du kan få Previsto til at sende notifikationer til dine kunder som en varsling 
 
 ### Indstil notifikationer <a id="indstil-notifikationer"></a>
 
-1. Klik på “Virksomhed” i menuen.
-2. Vælg fanen ‘Notifikationer’.
+1. Klik på **Indstillinger** i menuen.
+2. Vælg **Notifikationer**.
 3. Angiv om notifikationer skal sendes ud via SMS og/eller Email. [1](https://previsto.com/da/support/virksomhed-notifikationer/#fn:priser)
 4. Angiv evt. om Previsto automatisk skal sende notifikationer.
 5. Angiv evt. om varslinger til kunden skal indeholde tidspunkter for servicevindue.
 
-Når du har indstillet notifikationer kan du sende test-beskeder for at se om dine notifikationer ser ud som du ønsker de skal.
+Ved at klikke på blyanten ud for de hændelser hvor der automatisk afsendes notifikationer, kan du redigere og/eller se et preview af de notifikationer der bliver sendt.
 
 Du kan med det samme begynde at sende varslinger til de kunder der har enten et telefonnummer eller en email-adresse angivet. For de kunder hvor ingen af delene er angivet kan du ikke sende en notifikation.
 
@@ -22,16 +22,16 @@ Du kan med det samme begynde at sende varslinger til de kunder der har enten et 
 
 Påmindelser eller varslinger er notifikationer der sendes før arbejdet udføres. Det er en hjælp til at minde kunden om at din virksomhed har planlagt at udføre arbejde for dem samt en information om hvornår det vil ske. Du kan vælge at Previsto automatisk skal gøre det 3 dage før arbejdet skal udføres eller du kan vælge at gøre det manuelt på de enkelte kunder du ønsker at varsle.
 
-På en kundes aftale kan du angive en varslingstekst. Det er en besked du ønsker at give kunden i forbindelse med varslingen, f.eks. `Husk at lægge en nøgle.` eller `Lad bagdøren stå åben.` i forbindelsen med opgaver der kræver at du kommer indenfor selvom ingen er hjemme. Det kan også være andre beskeder som passer til den givne situation.
+På en kundes aftale kan du angive en **tekst før arbejdets udførelse**. Det er en besked du ønsker at give kunden i forbindelse med varslingen, f.eks. `Husk at lægge en nøgle.` eller `Lad bagdøren stå åben.` i forbindelsen med opgaver der f.eks. kræver at du kommer indenfor selvom ingen er hjemme. Det kan også være andre beskeder som passer til den givne situation.
 
-Når kunden får tilsendt en varsling indeholder den følgende besked:
+Når kunden får tilsendt en varsling indeholder den følgende besked. \(Det er vores standard besked fra systemet, men du kan dog ændre beskederne til en egen specifik tekst\)
 
 ```text
 Kære <her indsættes kundenavn>
 
-Vi kommer den <dato + evt. tidspunkt for servicevindue> og udfører følgende arbejde:
-* <arbejdets beskrivelse> - <tekst forud for arbejde>
-* <evt. mere arbejdes beskrivelse> - <tekst forud for arbejde>
+Vi kommer den <her indsættes dato + evt. tidspunkt for servicevindue> og udfører følgende arbejde:
+* <her indsættes arbejdets beskrivelse> - <her indsættes tekst forud for arbejde>
+* <her indsættes evt. mere arbejdes beskrivelse> - <her indsættes tekst forud for arbejde>
 
 Med venlig hilsen
 <firmanavn>
@@ -58,14 +58,14 @@ Når en kunde er blevet varslet, vil det blive angivet i planen. Opgaven vil bli
 
 Hvis du har sat Previsto til at sende en notifikation når en opgave er udført, vil Previsto gøre det automatisk når du gennemfører en opgave i Previsto og kunden har enten telefonnummer eller email-adresse angivet.
 
-Når kunden modtager en notifikation om udført arbejde vil den indeholde følgende besked:
+Når kunden modtager en notifikation om udført arbejde vil den indeholde følgende besked \(Det er vores standard besked fra systemet, men du kan dog ændre beskederne til en egen specifik tekst\).
 
 ```text
 Kære <her indsættes kundenavn>
 
 Vi har den <her indsættes dato> udført følgende arbejde:
-* <arbejdets beskrivelse> - <meddelelse efter udført arbejde>
-* <evt. mere arbejdes beskrivelse> - <meddelelse efter udført arbejde>
+* <her indsættes arbejdets beskrivelse> - <her indsættes meddelelse efter udført arbejde>
+* <her indsættes evt. mere arbejdes beskrivelse> - <her indsættes meddelelse efter udført arbejde>
 
 Vi ser frem til at servicere dem igen.
 
