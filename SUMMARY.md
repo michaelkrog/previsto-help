@@ -12,7 +12,7 @@
 ## Generelt
 
 * [Indstillinger](generelt/virksomhed/README.md)
-  * [Virksomhedsdetaljer](generelt/virksomhed/grundlaeggende-oplysninger.md)
+  * [Virksomhedsdetaljer](generelt/virksomhed/virksomhedsdetaljer.md)
   * [Medarbejdere](generelt/virksomhed/oprette-medarbejdere.md)
   * [Regnskab](generelt/virksomhed/regnskab.md)
   * [Notifikationer](generelt/virksomhed/notifikationer.md)
