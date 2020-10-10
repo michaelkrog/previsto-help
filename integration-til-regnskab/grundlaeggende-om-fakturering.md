@@ -14,19 +14,21 @@ Det er muligt at tilpasse indstillinger hvornår fakturering skal foregå, om Pr
 
 Når du indstiller et regnskabssystem i Previsto får du nogle mulighed for hvordan faktureringen skal foregå som vist i følgende billede. Bemærk at alle 3 indstillinger også kan angives specifikt på den enkelte kunde, for at tilpasse behov for enkelte kunde. 
 
-![Du kan indstille hvordan fakturering skal foreg&#xE5;](../.gitbook/assets/skaermbillede-2020-02-24-kl.-15.49.52.png)
+![](../.gitbook/assets/skaermbillede-2020-10-10-kl.-14.20.07.png)
 
-#### Bogføring af arbejde
+#### Fakturaoprettelse
 
-Under Bogføring af arbejde kan du vælge følgende:
 
-1. `Ingen bogføring` – Der vil ikke blive oprette nogen fakturaer.
-2. `Føj til fakturakladde` – Der vil blive oprettet fakturakladder, men de bliver ikke bogført. Dette bruges ofte til kunder hvor der løbende igennem en periode samles op på samme faktura for senere at blive bogført manuelt igenne regnskabsprogrammet. 
-3. `Føj til fakturakladde og fakturér` – Der bliver oprettet fakturakladder som bogføres med det samme.
 
-#### Bogføringstidspunkt
+Under Fakturaoprettelse kan du vælge følgende:
 
-Bogføringstidspunktet giver dig mulighed for at styre hvornår Previsto skal oprette fakturaer for arbejdet. Som udgangspunkt er det indstillet til Når arbejdet gennemføres, men det kan også indstilles til Før arbejdet gennemføres. I det tilfælde vil fakturaer blive dannet natten til den arbejdsdag arbejdet er planlagt. Dette er ofte brugt i de tilfælde hvor fakturaer skal printes ud og bringes med ud til kunden.
+1. `Ingen` – Der vil ikke blive oprette nogen fakturaer.
+2. `Opret fakturaklade` – Der vil blive oprettet fakturaklader, men de bliver ikke bogført. Dette bruges ofte til kunder hvor der løbende igennem en periode samles op på samme faktura for senere at blive bogført manuelt igenne regnskabsprogrammet. 
+3. `Opret bogført faktura for opgaver` – Der bliver oprettet fakturakladder som bogføres med det samme.
+
+#### Faktureringstidspunkt
+
+Faktureringstidspunktet giver dig mulighed for at styre hvornår Previsto skal oprette fakturaer for arbejdet. Som udgangspunkt er det indstillet til Når arbejdet gennemføres, men det kan også indstilles til Før arbejdet gennemføres. I det tilfælde vil fakturaer blive dannet natten til den arbejdsdag arbejdet er planlagt. Dette er ofte brugt i de tilfælde hvor fakturaer skal printes ud og bringes med ud til kunden.
 
 #### Fakturalevering
 
