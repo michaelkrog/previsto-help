@@ -24,3 +24,9 @@ Nedenstående eksempel angiver f.eks. at der på en 7,5 timers arbejdsdag er ble
 
 ![Detaljerede ruteinformationer](https://previsto.com/images/support/planning/tidslinje_2.png)
 
+#### Røde dage
+
+Du kan opleve at nogle dage i tidslinjen er farvet rød. Det er en indikation af at der er planlagt arbejde for en medarbejder på en dag hvor denne har fri. Hvis du gerne vile have at Previsto automatisk flytter arbejde på en medarbejders fridag til en anden medarbejder, kan dette tilvælges under **indstillinger** -&gt; **planlægning**.
+
+![](../../.gitbook/assets/image%20%281%29.png)
+
