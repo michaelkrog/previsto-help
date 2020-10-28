@@ -8,6 +8,10 @@ De fleste virksomheder der beskæftiger sig i servicebranchen har behov for at f
 
 Når Previsto er koblet op til et regnskabssystem vil dine kunder automatisk blive synkroniseret og dit arbejde faktureret og bogført.
 
+{% hint style="info" %}
+**Bemærk**: Ændringer af kunder i regnskabssystemet kan være op til 4 timer om at blive reflekteret i Previsto. 
+{% endhint %}
+
 ### Indstillinger
 
 Det er muligt at tilpasse indstillinger hvornår fakturering skal foregå, om Previsto skal bogføre fakturaen eller blot lade den være en kladde hvor løbende arbejde for en kunde kan opsamles og om den skal sendes til kunde på email eller ej. Indstillingenre kan foretages for alle kunder i virksomheden samt for den enkelte kunde.
