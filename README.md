@@ -4,12 +4,6 @@ description: Få hjælp til at planlægge arbejde for din servicevirksomhed.
 
 # Hjælp til brug af Previsto
 
-{% hint style="success" %}
-### Bliv en del af vores Community
-
-På [vores Discord-server](https://discord.gg/ZujpyTqy5Y) kan du komme direkte i kontakt med andre der bruger Previsto hver dag samt vores udviklere.
-{% endhint %}
-
 {% hint style="info" %}
 ### Kontakt Previsto's support 
 
