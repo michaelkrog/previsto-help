@@ -1,31 +1,24 @@
 ---
-description: Hvad er Previsto og hvad kan det gøre for dig?
+description: Få hjælp til at planlægge arbejde for din servicevirksomhed.
 ---
 
-# Introduktion
+# Hjælp til brug af Previsto
 
 {% hint style="info" %}
-### Brug for personlig support?
+### Brug for personlig hjælp?
 
-Gå til siden [Kontakt med Previsto's support](kontakt-med-previstos-support.md).
-{% endhint %}
+Bliv en del af vores community og spørg andre brugere til råds på vores Discord-server. Her kan du chatte, tale m.m. med andre der bruger Previsto hver dag.  
+[Gå til Previsto's Discord-server](https://discord.gg/ZujpyTqy5Y)
 
-### Previsto's formål
-
-Previsto er et planlægningsystem målrettet virksomheder i servicebranchen. Vinduespudsere, rengøringsfirmaer, skorstensfejere, sælgere og hjemmehjælpere er blot nogle få eksempler på dem der allerede nyder stor gavn af at planlægge deres arbejde med Previsto.
-
-{% hint style="success" %}
-Previsto's udmærker sig ved at kunne indberegne kørselsafstande mellem medarbejdere og kunder, og kan dermed beregne de kortest mulige ruter for arbejde der kræver meget kørsel. Det betyder **mindre forurening** samt **store besparelser**.
+Har du behov for at kontakte Previsto's support for fx. at rapportere en fejl er det også muligt.  
+[Gå til kontakt med Previsto's support](kontakt-med-previstos-support.md).
 {% endhint %}
 
 På disse sider beskrives Previsto's funktioner og muligheder i praksis. Artiklerne fører dig fra oprettelse af din egen konto i Previsto helt til fakturering af udført arbejde.
 
+Brug søgning øverst til højre eller menuen til venstre for at finde den hjælp du skal bruge.
+
 ### API til udvikler
 
 Er du mere interesseret i hvordan du kan integrere med Previsto kan du læse om vores [REST API til softwareudviklere her](api/introduction-to-api.md).
-
-### Feedback
-
-Feedback er meget velkomment! Har du en idé eller noget vi kan gøre bedre, så kontakt os via mail på [support@previsto.com](mailto:support@previsto.com)  
-
 
