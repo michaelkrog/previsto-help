@@ -4,8 +4,6 @@ description: Få hjælp til at planlægge arbejde for din servicevirksomhed.
 
 # Hjælp til brug af Previsto
 
-
-
 {% hint style="success" %}
 ### Bliv en del af vores Community
 
