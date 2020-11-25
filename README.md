@@ -4,14 +4,18 @@ description: Få hjælp til at planlægge arbejde for din servicevirksomhed.
 
 # Hjælp til brug af Previsto
 
+
+
+{% hint style="success" %}
+### Bliv en del af vores Community
+
+På [vores Discord-server](https://discord.gg/ZujpyTqy5Y) kan du komme direkte i kontakt med andre der bruger Previsto hver dag samt vores udviklere.
+{% endhint %}
+
 {% hint style="info" %}
-### Brug for personlig hjælp?
+### Kontakt Previsto's support 
 
-Bliv en del af vores community og spørg andre brugere til råds på vores Discord-server. Her kan du chatte, tale m.m. med andre der bruger Previsto hver dag. Vores udviklere vil også være at finde her.  
-[Gå til Previsto's Discord-server](https://discord.gg/ZujpyTqy5Y)
-
-Har du behov for at kontakte Previsto's support for fx. at rapportere en fejl er det også muligt.  
-[Gå til kontakt med Previsto's support](kontakt-med-previstos-support.md).
+Har du behov for at kontakte Previsto's support for fx. at rapportere en fejl kan du [gå til kontakt med Previsto's support](kontakt-med-previstos-support.md).
 {% endhint %}
 
 På disse sider beskrives Previsto's funktioner og muligheder i praksis. Artiklerne fører dig fra oprettelse af din egen konto i Previsto helt til fakturering af udført arbejde.
