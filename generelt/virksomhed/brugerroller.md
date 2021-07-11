@@ -1,5 +1,5 @@
 ---
-description: Her beskrivelse de enkelte roller en bruger kan have i virksomheden.
+description: Her beskrives de enkelte roller en bruger kan have i virksomheden.
 ---
 
 # Brugerroller

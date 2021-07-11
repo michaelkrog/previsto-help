@@ -53,7 +53,7 @@ Følgende integrationer understøtter alle dele af Previsto's kommunikation med 
 * [Dinero](integration-med-dinero.md) \(Danmark\)
 * [Billy](integration-med-billy.md) \(Danmark\)
 
-#### Almindelig integrationer 
+#### Andre integrationer 
 
 Enkelte dele af intregrationen til regnskabet kan ikke supporteres af følgende systemer. Følg link til den pågældende integration for at se detaljer.
 
