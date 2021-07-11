@@ -4,7 +4,7 @@ description: Du kan oprette alle virksomhedens medarbejdere
 
 # Medarbejdere
 
-Som udgangspunkt er der kun én medarbejder i virksomheden, men du kan oprette alle dem du har behov for at planlæge arbejde for. Hver medarbejder du opretter vil automatisk indgå i puljen af resourcer som Previsto vil bruge når den planlægger for dig.
+Som udgangspunkt er der kun én medarbejder i virksomheden, men du kan oprette alle dem du har behov for at planlægge arbejde for. Hver medarbejder du opretter vil automatisk indgå i puljen af resourcer som Previsto vil bruge når den planlægger for dig.
 
 ### Opret medarbejder <a id="opret-medarbejder"></a>
 
