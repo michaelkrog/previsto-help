@@ -12,7 +12,7 @@ Når Previsto er koblet op til et regnskabssystem vil dine kunder automatisk bli
 **Bemærk følgende omkring synkronisering**
 
 * Efter tilkobling af regnskabssystemet kan efterfølgende ændringer af kunder i regnskabssystemet være op til 4 timer om at blive reflekteret i Previsto. 
-* Ændringer til kunder i Previsto vil normalt blive reflekteret i regnsakbssystemet med det samme. 
+* Ændringer til kunder i Previsto vil normalt blive reflekteret i regnskabssystemet med det samme. 
 * Nyoprettede kunder i Previsto bliver første oprettet i regnskabet ved første fakturering.
 {% endhint %}
 
