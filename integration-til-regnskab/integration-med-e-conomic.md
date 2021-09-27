@@ -56,6 +56,10 @@ Bemærk også at E-conomic ikke understøtter at kundenumre ændres efter kunden
 
 ![Previsto bruger den f&#xF8;rste kundegruppe den kan finde n&#xE5;r der oprettes kunder](../.gitbook/assets/skaermbillede-2020-02-24-kl.-15.00.55.png)
 
+#### **Fakturalayout**
+
+Det er ikke muligt for Previsto at hente oplysninger om hvilket fakturalayout der foretrækkes som standard. Derfor anvender Previsto det første fakturalayout den kan finde, hvilket typisk vil være det der allerede er oprettet når et regnskab oprettes i e-conomic.
+
 #### **Afsendelse af faktura via email**
 
 Ved afsendelse af fakturaer via email fra Previsto, håndteres dette udelukkende af Previsto. Det betyder følgende:
