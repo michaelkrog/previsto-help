@@ -1,7 +1,7 @@
 ---
 description: >-
   Når du kontakter os kommer du i direkte kontakt med ægte flinke mennesker — og
-  vi er altid klar til at hjælpe! Vores supportere arbejder i Danmark. (UTC+1).
+  vi er altid klar til at hjælpe!
 ---
 
 # Kontakt med Previsto's Support
