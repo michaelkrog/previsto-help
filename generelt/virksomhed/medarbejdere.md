@@ -6,6 +6,10 @@ description: Du kan oprette alle virksomhedens medarbejdere
 
 Som udgangspunkt er der kun én medarbejder i virksomheden, men du kan oprette alle dem du har behov for at planlægge arbejde for. Hver medarbejder du opretter vil automatisk indgå i puljen af resourcer som Previsto vil bruge når den planlægger for dig.
 
+{% hint style="info" %}
+[Klik her](brugerroller.md) for at se informationer om de forskellige brugerroller i systemet.
+{% endhint %}
+
 ### Opret medarbejder <a id="opret-medarbejder"></a>
 
 1. Klik på "Indstillinger"\(tandhjulet øverst  og herefter “Medarbejdere” i menuen.

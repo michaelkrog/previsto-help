@@ -4,12 +4,6 @@ description: Få hjælp til at planlægge arbejde for din servicevirksomhed.
 
 # Hjælp til brug af Previsto
 
-{% hint style="success" %}
-### Deltag i Previsto's Community
-
-Du kan komme direkte i kontakt med andre brugere af Previsto på [Slack](http://community.previsto.com). Få gode råd, del erfaringer, hør om seneste nyt. 
-{% endhint %}
-
 {% hint style="info" %}
 #### Kontakt Previsto's support 
 

@@ -8,7 +8,7 @@ description: >-
 
 ### Muligheder for support
 
-Vi tilbyder email-support på [support@previsto.com](mailto:support@previsto.com) og svarer normalt indenfor få timer.
+Vi tilbyder email-support på [support@previsto.com](mailto:support@previsto.com) og svarer normalt indenfor 1-2 arbejdsdage.
 
 ### Hvorfor er der ingen telefonsupport? 
 
