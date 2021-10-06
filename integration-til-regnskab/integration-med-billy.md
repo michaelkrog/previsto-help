@@ -10,13 +10,13 @@ Før du kan integrere med [Billy](https://previsto.com/da/partner/billy/) i Prev
 
 Start med at logge ind på [Billy](https://previsto.com/da/partner/billy/). Under “Indstillinger” finder du “adgangsnøgler”. Opret nøglen og giv den et navn f.eks `Previsto`. Kopier nøglen til din udklipsholder.
 
-![Adgangn&#xF8;gler i Billy](https://previsto.com/images/support/faq/find_keys_billy.png)
+![](../.gitbook/assets/skaermbillede-2021-10-06-kl.-08.12.39.png)
 
 ### Indstil regnskabssystem i Previsto <a id="indstil-regnskabssystem-i-previsto"></a>
 
-Adgangsnøglenn skal nu indtastes i Previsto. Vælg “Virksomhed” i fanen til venstre, herefter menuen “Indstillinger”. Vælg Billy i listen over regnskabssystemer.
+Adgangsnøglen skal nu indtastes i Previsto. Vælg “Virksomhed” i fanen til venstre, herefter menuen “Indstillinger”. Vælg Billy i listen over regnskabssystemer.
 
-![Oprettelse af integration i Previsto](https://previsto.com/images/support/faq/previsto_billy.png)
+![](../.gitbook/assets/skaermbillede-2021-10-06-kl.-08.10.08.png)
 
 Indsæt din adgangnøgle, og klik derefter på fluebenet øverst til højre. Previsto og Billy er nu klar til brug.
 
