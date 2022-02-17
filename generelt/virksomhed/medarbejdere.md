@@ -10,15 +10,15 @@ Som udgangspunkt er der kun én medarbejder i virksomheden, men du kan oprette a
 [Klik her](brugerroller.md) for at se informationer om de forskellige brugerroller i systemet.
 {% endhint %}
 
-### Opret medarbejder <a id="opret-medarbejder"></a>
+### Opret medarbejder <a href="#opret-medarbejder" id="opret-medarbejder"></a>
 
-1. Klik på "Indstillinger"\(tandhjulet øverst  og herefter “Medarbejdere” i menuen.
+1. Klik på "Indstillinger"(tandhjulet øverst  og herefter “Medarbejdere” i menuen.
 2. Klik på **Invitér medarbejder** i øverst til højre.
 3. Indtast email-adressen på den bruger der skal inviteres og klik **OK**.
 
 Medarbejderen vil få tilsendt en mail om han er inviteret ind i din virksomhed. I mail'en fremgår et link han kan følge for at acceptere invitationen og evt. oprette en Previsto profil. Han vil herefter kunne logge ind i din virksomhed fx. via webbrugerfladen eller vores mobile app.
 
-Opkrævningen af dit Previsto abonnement vil til enhver tid reflektere det antal medarbejdere du har knyttet til virksomheden. 
+Opkrævningen af dit Previsto abonnement vil til enhver tid reflektere det antal medarbejdere du har knyttet til virksomheden.&#x20;
 
 Indstil hvornår medarbejderne starter og slutter sine arbejdsdage. Previsto optimerer arbejdsruterne, så alle kunder nås inden for den angivne arbejdstid.
 
@@ -30,18 +30,19 @@ Indstil hvornår medarbejderne starter og slutter sine arbejdsdage. Previsto opt
 
 Som udgangspunkt er arbejdsdage sat til at starte kl. 7:30 og slutte kl. 15:00 på alle hverdage. Du kan justere det til efter behov. Du kan fjerne krydset ud for de dage hvor medarbejderen ikke arbejder.
 
-### Ferie, fridage og dage med justeret arbejdstid <a id="ferie-fridage-og-dage-med-justeret-arbejdstid"></a>
+### Ferie, fridage og dage med justeret arbejdstid <a href="#ferie-fridage-og-dage-med-justeret-arbejdstid" id="ferie-fridage-og-dage-med-justeret-arbejdstid"></a>
 
 Under fanen **Fravær** kan du justere dage der afviger fra din normale ugerytme. Du kan f.eks. angive perioder med ferie, enkelte fridage eller arbejdsdage hvor du arbejder på andres tidspunkter end normalt.
 
-Du kan endda sætte det op som en regel for afvigelser der gentager sig med et bestemt interval. Det kunne f.eks. være en månedlig fridag, en kort fredag hver anden uge osv.  
+Du kan endda sætte det op som en regel for afvigelser der gentager sig med et bestemt interval. Det kunne f.eks. være en månedlig fridag, en kort fredag hver anden uge osv.\
 
 
-### Fortræk medarbejdere for den enkelte kunde <a id="fortr&#xE6;k-medarbejdere-for-den-enkelte-kunde"></a>
+### Fortræk medarbejdere for den enkelte kunde <a href="#fortraek-medarbejdere-for-den-enkelte-kunde" id="fortraek-medarbejdere-for-den-enkelte-kunde"></a>
 
 Du kan angive om en kunde altid skal varetages af en eller flere bestemte medarbejdere. Previsto vil tage højde for det når den beregner de optimale kørselsruter. Bemærk dog at selvom der er masse af gode grunde til at foretrække bestemte medarbejdere til nogle kunder, så vil det begrænse Previsto’s muligheder for at optimere kørselsruterne.
 
 Se mere om hvordan du vælger specifikke medarbejdere for en given kunde på følgende side:
 
-{% page-ref page="../kunder/oprettelse-af-kunde.md" %}
-
+{% content-ref url="../kunder/oprettelse-af-kunde.md" %}
+[oprettelse-af-kunde.md](../kunder/oprettelse-af-kunde.md)
+{% endcontent-ref %}

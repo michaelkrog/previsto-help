@@ -7,7 +7,7 @@
   * [Grundlæggende om Previsto](godt-i-gang/grundlaeggende-om-previsto.md)
 * [Ofte stillede spørgsmål](ofte-stillede-sporgsmal/README.md)
   * [Glemt kodeord](ofte-stillede-sporgsmal/glemt-kodeord.md)
-  * [Persondataforordningen \(Gdpr\)](ofte-stillede-sporgsmal/persondataforordningen-gdpr.md)
+  * [Persondataforordningen (Gdpr)](ofte-stillede-sporgsmal/persondataforordningen-gdpr.md)
 
 ## Generelt
 
@@ -26,6 +26,7 @@
   * [Redigér arbejdsplan](generelt/plan/rediger-arbejdsplan.md)
   * [Påbegynd og udfør opgave](generelt/plan/udfor-arbejde.md)
   * [Varslinger, SMS og opkald](generelt/plan/varslinger-sms-og-opkald.md)
+* [Filer](generelt/filer.md)
 * [Kundegrupper](generelt/kundegrupper.md)
 
 ## Integration til regnskab
@@ -49,4 +50,3 @@
 * [Contact](api/contact.md)
 * [Agreement](api/agreement.md)
 * [Assignment](api/assignment.md)
-

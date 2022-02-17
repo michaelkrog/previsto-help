@@ -8,7 +8,7 @@ Efter kunden er oprettet skal der oprettes aftaler på kunden. Du kan have et vi
 
 Se hvordan du opretter en aftale i følgende video. Detaljer om oprettelse af aftaler fortsætter på denne side efter videoen.
 
-{% embed url="https://youtu.be/s8hxVr\_4Lsc" caption="" %}
+{% embed url="https://youtu.be/s8hxVr_4Lsc" %}
 
 Denne fane indeholder de mest generelle informationer om din aftale.
 
@@ -29,13 +29,15 @@ Information om hvor meget det koster kunden at få udført arbejdet. Beløbet vi
 Der kan for hver aftale vælges mellem 2 forskellige aftaletyper:
 
 * **Almindelig**: betyder at de opgaver der planlægges for aftalen frit kan planlægges.
-* **Supplerende**: betyder at opgaver for aftalen kun planlægges hvis der i forvejen er planlagt opgaver for andre aftaler hos kunden. Det kan f.eks. være ved tilfælde hvor der kun skal udføres en indvendig opgave hos en kunde når der i forvejen er planlagt at der skal udføres en udendørs opgave. 
+* **Supplerende**: betyder at opgaver for aftalen kun planlægges hvis der i forvejen er planlagt opgaver for andre aftaler hos kunden. Det kan f.eks. være ved tilfælde hvor der kun skal udføres en indvendig opgave hos en kunde når der i forvejen er planlagt at der skal udføres en udendørs opgave.&#x20;
 
 ## Meddelelse til kunden - forud for arbejdet og efter udført arbejde
 
 Hvis angivet, vil teksten blive inkluderet som _signaturtekst_ henholdsvis i påmindelser/varslinger der sendes til kunden før arbejdet udføres og i notifikationer efter opgaven er blevet udført.
 
-{% page-ref page="../virksomhed/notifikationer.md" %}
+{% content-ref url="../virksomhed/notifikationer.md" %}
+[notifikationer.md](../virksomhed/notifikationer.md)
+{% endcontent-ref %}
 
 **Note til medarbejder**
 
@@ -55,4 +57,3 @@ Giver dig mulighed for definere hvordan Previsto skal planlægge aftalen. Du kan
 * **Specifik dato:** Vælger du `Specifik dato` vil Previsto sørge for at arbejdet bliver planlagt præcis på denne dato – hverken før eller efter. Ønsker du at aftalen falder tilbage til at være `Automatisk beregnet` efter du har udført arbejdet næste gang, kan du krydse det af.
 
 Klik på tjektegnet øverst til højre når aftalen er i orden.
-
