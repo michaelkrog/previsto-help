@@ -283,22 +283,22 @@ curl https://api.previsto.io/agreements \
 ```
 [
     {
-        "id": "agt_123123123",
-        "description": "Window Cleaning Outside",
-        "amount": 23900,
-        "currency": "DKK",
-        "contactId": "cot_1231231321",
-        "recurrenceRule": "FREQ=WEEKLY;INTERVAL=4;WKST=MO",
-        "startDate": "2015-01-01",
-        "endDate": null,
-        "previousDate": null,
-        "nextDate": null,
-        "archived": false,
-        "accountId": null,
-        "meta": {
-            "note": "Good Deal"
-        }
-    },
+    "id": "agt_123123123",
+    "description": "Window Cleaning",
+    "note": "Remember to close the gate.",
+    "amount": 23900,
+    "contactId": "cont_1231231321",
+    "recurrenceRule": "FREQ=WEEKLY;INTERVAL=4;WKST=MO",
+    "type": "Primary",
+    "workType": "WindowCleaning",
+    "duration": 15,
+    "planningDateType": "Fixed",
+    "planningDate": "2017-12-04",
+    "archived": false,
+    "meta": {
+        "Note": "Good Deal"
+    }
+},
     {  },
     {  },
     "... And then as many results as available or requested"
