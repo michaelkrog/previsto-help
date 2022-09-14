@@ -25,7 +25,7 @@
   * [Tidslinjen](generelt/plan/tidslinjen.md)
   * [Redigér arbejdsplan](generelt/plan/rediger-arbejdsplan.md)
   * [Påbegynd og udfør opgave](generelt/plan/udfor-arbejde.md)
-  * [Varslinger, SMS og opkald](generelt/plan/varslinger-sms-og-opkald.md)
+  * [Varslinger](generelt/plan/varslinger-sms-og-opkald.md)
 * [Filer](generelt/filer.md)
 * [Kundegrupper](generelt/kundegrupper.md)
 
