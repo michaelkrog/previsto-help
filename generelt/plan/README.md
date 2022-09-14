@@ -2,9 +2,10 @@
 
 Følgende artikler viser hvordan du bruger og tilpasser planen i Previsto.
 
-{% page-ref page="rediger-arbejdsplan.md" %}
+{% content-ref url="rediger-arbejdsplan.md" %}
+[rediger-arbejdsplan.md](rediger-arbejdsplan.md)
+{% endcontent-ref %}
 
-{% page-ref page="tidslinjen.md" %}
-
-{% page-ref page="udfor-arbejde.md" %}
-
+{% content-ref url="udfor-arbejde.md" %}
+[udfor-arbejde.md](udfor-arbejde.md)
+{% endcontent-ref %}
